@@ -25,6 +25,16 @@ b() {
     echo "Check Complete at $(date)." >> ~/checkbrew.log
 }
 
+dot() {
+    echo "start sync dotfiles on git"
+    sudo git add .
+    echo "added dotfiles"
+    sudo git commit -m "Auto Commit at: $(date '+%Y-%m-%d %H:%M:%S')"
+    echo "generate empty commit"
+    sudo git push
+    echo "sync done"
+}
+
 #neofetch
 #fortuneexport PATH="/opt/homebrew/opt/ruby/bin:$PATH"
 eval "$(rbenv init - zsh)"
