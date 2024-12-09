@@ -1,3 +1,0 @@
-[submodule "shell/powerlevel10k"]
-	path = shell/powerlevel10k
-	url = ./dotfiles/shell
