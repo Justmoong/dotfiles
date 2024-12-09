@@ -20,9 +20,12 @@ defaults write com.apple.dock springboard-rows -int 12
 # Follow My Experience, MacBook-Air = 12, 8 Desktop = 15 12
 
 # Add Empty Space On Dock For Break Dock Max Length Limits
-defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'
+#defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'
 
-#Set Dock Icon Size To 36
+# Disable Transparency Windows
+defaults write com.apple.universalaccess reduceTransparency -bool true
+
+# Set Dock Icon Size To 36
 defaults write com.apple.dock "tilesize" -int "36"
 
 # Disable the “Are you sure you want to open this application?” dialog
@@ -180,6 +183,7 @@ defaults write com.apple.QuickTimePlayerX MGPlayMovieOnOpen -bool true
 
 # Restart All For Apply
 killAll Dock
-sleep 5
 echo "macOS setup done, Now reboot system after 5 secs"
+sleep 5
+
 sudo reboot
