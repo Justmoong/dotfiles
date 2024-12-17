@@ -27,12 +27,10 @@ b() {
 
 dot() {
     cd .dotfiles/
+    wait 2
     echo "start sync .dotfiles on git"
     sudo git add .
-    echo "added all fixed dotfiles"
     sudo git commit -m "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
-    echo "generate empty commit"
-    echo "push to Justmoong/dotfiles for git sync..."
     sudo git push
     echo "Done"
 }
