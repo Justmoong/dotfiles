@@ -4,7 +4,7 @@
 	name = Justmoong
 	email = andudyun0504@gmail.com
 [core]
-	excludesfile = ~/.gitignore_global
+	excludesfile = /Users/ymy/.gitignore_global
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
