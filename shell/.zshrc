@@ -29,9 +29,9 @@ dot() {
     cd .dotfiles/
     wait 2
     echo "start sync .dotfiles on git"
-    sudo git add .
-    sudo git commit -m "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
-    sudo git push
+    git add .
+    git commit -m "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
+    git push
     echo "Done"
 }
 
