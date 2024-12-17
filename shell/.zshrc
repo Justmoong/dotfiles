@@ -26,15 +26,19 @@ b() {
 }
 
 dot() {
-    echo "start sync dotfiles on git"
+    cd .dotfiles/
+    echo "start sync .dotfiles on git"
     sudo git add .
-    echo "added dotfiles"
-    sudo git commit -m "Auto Commit at: $(date '+%Y-%m-%d %H:%M:%S')"
+    echo "added all fixed dotfiles"
+    sudo git commit -m "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
     echo "generate empty commit"
+    echo "push to Justmoong/dotfiles for git sync..."
     sudo git push
-    echo "sync done"
+    echo "Done"
 }
 
 #neofetch
 #fortuneexport PATH="/opt/homebrew/opt/ruby/bin:$PATH"
 eval "$(rbenv init - zsh)"
+source ~/powerlevel10k/powerlevel10k.zsh-theme
+source ~/powerlevel10k/powerlevel10k.zsh-theme
