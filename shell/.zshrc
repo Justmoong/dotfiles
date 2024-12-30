@@ -38,3 +38,7 @@ dot() {
 eval "$(rbenv init - zsh)"
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 source ~/powerlevel10k/powerlevel10k.zsh-theme
+
+# Plugins
+source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
