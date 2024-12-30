@@ -22,6 +22,7 @@ b() {
     brew update
     brew upgrade
     brew cleanup
+    brew bundle dump
     echo "Check Complete at $(date)." >> ~/checkbrew.log
 }
 
