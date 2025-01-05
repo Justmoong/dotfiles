@@ -35,6 +35,7 @@ dot() {
     sudo git commit -m "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
     sudo git push
     echo "Done"
+    cd
 }
 
 eval "$(rbenv init - zsh)"
