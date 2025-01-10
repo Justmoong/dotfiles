@@ -2,6 +2,8 @@
 # pass sudo password
 sudo -v
 
+ln -s ~/.dotfiles/.config/ ~/.config/
+
 ln -s ~/.dotfiles/shell/.zshrc ~/.zshrc
 ln -s ~/.dotfiles/shell/.zshenv ~/.zshenv
 ln -s ~/.dotfiles/shell/.zprofile ~/.zprofile

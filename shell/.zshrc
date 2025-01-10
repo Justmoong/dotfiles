@@ -45,3 +45,6 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 # Plugins
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+# To customize prompt, run `p10k configure` or edit ~/.dotfiles/shell/.p10k.zsh.
+[[ ! -f ~/.dotfiles/shell/.p10k.zsh ]] || source ~/.dotfiles/shell/.p10k.zsh
