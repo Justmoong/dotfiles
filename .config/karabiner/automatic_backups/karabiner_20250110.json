@@ -34,24 +34,6 @@
                     "ignore": false,
                     "manipulate_caps_lock_led": false,
                     "treat_as_built_in_keyboard": true
-                },
-                {
-                    "identifiers": {
-                        "is_keyboard": true,
-                        "product_id": 119,
-                        "vendor_id": 5426
-                    },
-                    "ignore": true
-                },
-                {
-                    "identifiers": {
-                        "is_keyboard": true,
-                        "is_pointing_device": true,
-                        "product_id": 45091,
-                        "vendor_id": 1133
-                    },
-                    "ignore": false,
-                    "treat_as_built_in_keyboard": true
                 }
             ],
             "fn_function_keys": [
@@ -98,34 +80,6 @@
                 {
                     "from": { "key_code": "caps_lock" },
                     "to": [{ "key_code": "f19" }]
-                },
-                {
-                    "from": { "key_code": "f1" },
-                    "to": [{ "apple_vendor_keyboard_key_code": "spotlight" }]
-                },
-                {
-                    "from": { "key_code": "f3" },
-                    "to": [{ "apple_vendor_keyboard_key_code": "mission_control" }]
-                },
-                {
-                    "from": { "key_code": "f4" },
-                    "to": [{ "apple_vendor_keyboard_key_code": "launchpad" }]
-                },
-                {
-                    "from": { "key_code": "f5" },
-                    "to": [{ "apple_vendor_keyboard_key_code": "dashboard" }]
-                },
-                {
-                    "from": { "key_code": "f8" },
-                    "to": [{ "consumer_key_code": "scan_previous_track" }]
-                },
-                {
-                    "from": { "key_code": "f9" },
-                    "to": [{ "consumer_key_code": "play_or_pause" }]
-                },
-                {
-                    "from": { "key_code": "f10" },
-                    "to": [{ "consumer_key_code": "scan_next_track" }]
                 },
                 {
                     "from": { "key_code": "f11" },
