@@ -1,0 +1,26 @@
+{
+    "title": "Control+Q to Command+Option+N",
+    "rules": [
+        {
+            "description": "Control+Q to Command+Option+N",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "q",
+                        "modifiers": {
+                            "mandatory": ["control"],
+                            "optional": ["any"]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "n",
+                            "modifiers": ["command", "option"]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
