@@ -23,7 +23,6 @@ b() {
     brew upgrade
     brew cleanup
     rm ~/Brewfile
-    brew bundle dump --file=~/Brewfile --force
     echo "Check Complete at $(date)." >> ~/checkbrew.log
 }
 
