@@ -22,6 +22,10 @@ b() {
     brew update
     brew upgrade
     brew cleanup
+<<<<<<< HEAD
+=======
+    rm ~/Brewfile
+>>>>>>> 36a25e7b5a92a5828231c22cab3bcf838dd63f73
     echo "Check Complete at $(date)." >> ~/checkbrew.log
 }
 
