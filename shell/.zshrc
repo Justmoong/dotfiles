@@ -22,7 +22,6 @@ b() {
     brew update
     brew upgrade
     brew cleanup
-    rm ~/Brewfile
     echo "Check Complete at $(date)." >> ~/checkbrew.log
 }
 
