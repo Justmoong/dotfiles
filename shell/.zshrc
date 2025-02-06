@@ -32,6 +32,7 @@ dot() {
     sudo git add .
     sudo git commit -m "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
     sudo git push
+    echo "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
     echo "Done"
     cd
 }
