@@ -1,13 +1,8 @@
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
-
-eval "$(/opt/homebrew/bin/brew shellenv)"
-
-# Setting PATH for Python 3.12
-# The original version is saved in .zprofile.pysave
-PATH="/Library/Frameworks/Python.framework/Versions/3.12/bin:${PATH}"
-export PATH
-
-# Added by `rbenv init` on 2024년 12월  2일 월요일 07시 54분 53초 KST
-eval "$(rbenv init - --no-rehash zsh)"
-eval "$(rbenv init - zsh)"
+echo eval "$(/opt/homebrew/bin/brew shellenv)" eval export HOMEBREW_PREFIX="/opt/homebrew";
+export HOMEBREW_CELLAR="/opt/homebrew/Cellar";
+export HOMEBREW_REPOSITORY="/opt/homebrew";
+PATH="/opt/homebrew/bin:/opt/homebrew/sbin:/Users/ymy/.rbenv/shims:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Library/TeX/texbin:/Applications/Wireshark.app/Contents/MacOS:/Applications/Little Snitch.app/Contents/Components:/Applications/iTerm.app/Contents/Resources/utilities"; export PATH;
+[ -z "${MANPATH-}" ] || export MANPATH=":${MANPATH#:}";
+export INFOPATH="/opt/homebrew/share/info:${INFOPATH:-}";

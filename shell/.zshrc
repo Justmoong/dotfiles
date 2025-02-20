@@ -49,3 +49,5 @@ source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 [[ ! -f ~/.dotfiles/shell/.p10k.zsh ]] || source ~/.dotfiles/shell/.p10k.zsh
 source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 source /opt/homebrew/share/powerlevel10k/powerlevel10k.zsh-theme
+
+. "$HOME/.local/bin/env"

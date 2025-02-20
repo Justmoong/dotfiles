@@ -16,10 +16,10 @@ recent.capture_file: /Users/ymy/Desktop/Ad Block One Dashboard 2025-01-10 at 19.
 
 # Main window geometry.
 # Decimal numbers.
-gui.geometry_main_x: 922
-gui.geometry_main_y: 695
+gui.geometry_main_x: 1058
+gui.geometry_main_y: 801
 gui.geometry_main_width: 750
-gui.geometry_main_height: 550
+gui.geometry_main_height: 561
 
 # Main window maximized.
 # true or false (case-insensitive).
@@ -27,7 +27,7 @@ gui.geometry_main_maximized: false
 
 # Main window geometry state.
 # Hex byte string.
-gui.geometry_main: 01d9d0cb000300000000039a000002b700000687000004f80000039a000002d300000687000004f800000000000000000f000000039a000002d300000687000004f8
+gui.geometry_main: 01d9d0cb0003000000000422000003210000070f0000056d000004220000033d0000070f0000056d00000000000000000f00000004220000033d0000070f0000056d
 
 # Leftalign Action Buttons.
 # true or false (case-insensitive).
