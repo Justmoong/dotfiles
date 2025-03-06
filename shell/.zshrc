@@ -51,3 +51,7 @@ source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 source /opt/homebrew/share/powerlevel10k/powerlevel10k.zsh-theme
 
 . "$HOME/.local/bin/env"
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/Users/ymy/.lmstudio/bin"
