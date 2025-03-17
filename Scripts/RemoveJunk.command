@@ -32,4 +32,4 @@ echo "Done"
 cd
 
 wait 5
-osascript -e 'tell application "iTerm2" to tell current window to close'
+osascript -e 'tell application "iTerm2" to tell current tab to close'
