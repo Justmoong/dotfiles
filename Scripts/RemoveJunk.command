@@ -31,4 +31,5 @@ echo "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
 echo "Done"
 cd
 
+wait 5
 osascript -e 'tell application "iTerm2" to tell current window to close'
