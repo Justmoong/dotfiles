@@ -12,7 +12,8 @@ rm -rf ~/.rbenv
 rm -rf ~/.matplotlib
 rm -rf ~/.DDLocalBackups
 rm -rf ~/.DDPreview
-rm -rf ~/.vhdl_ls,toml
+rm -rf ~/.vhdl_ls.toml
+rm -rf ~/.teroshdl2_prj.json
 rm -rf ~/.python_history
 rm -rf ~/.zsh_sessions
 rm -rf ~/.lesshst
