@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 15.0.1, 2025-03-10T18:04:44. -->
+<!-- Written by QtCreator 16.0.0, 2025-03-17T21:57:12. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -28,6 +28,7 @@
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{846d4910-5515-4b16-ac4c-8c394d5cee6b}</value>
     <value type="QString" key="Debugger.Information">lldb</value>
+    <value type="QString" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.Device"></value>
     <value type="QString" key="PE.Profile.DeviceType">GenericLinuxOsType</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -64,6 +65,7 @@
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{846d4910-5515-4b16-ac4c-8c394d5cee6b}</value>
     <value type="QString" key="Debugger.Information">{016a678b-9a55-49a0-9986-cb1efef5ccf8}</value>
+    <value type="QString" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.Device">Desktop Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Desktop</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -100,6 +102,7 @@
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{846d4910-5515-4b16-ac4c-8c394d5cee6b}</value>
     <value type="QString" key="Debugger.Information">{016a678b-9a55-49a0-9986-cb1efef5ccf8}</value>
+    <value type="QString" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.Device">Desktop Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Desktop</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -136,6 +139,7 @@
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{846d4910-5515-4b16-ac4c-8c394d5cee6b}</value>
     <value type="QString" key="Debugger.Information">lldb</value>
+    <value type="QString" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.Device"></value>
     <value type="QString" key="PE.Profile.DeviceType">GenericLinuxOsType</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -156,8 +160,8 @@
   <variable>Profile.4</variable>
   <valuemap type="QVariantMap">
    <valuelist type="QVariantList" key="PE.Kit.RelevantAspects">
-    <value type="QString">PE.Profile.Environment</value>
     <value type="QString">Python.Interpreter</value>
+    <value type="QString">PE.Profile.Environment</value>
    </valuelist>
    <value type="bool" key="PE.Profile.AutoDetected">true</value>
    <value type="QString" key="PE.Profile.AutoDetectionSource">Python</value>

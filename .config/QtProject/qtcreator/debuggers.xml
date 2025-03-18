@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorDebuggers>
-<!-- Written by QtCreator 15.0.1, 2025-03-10T18:04:44. -->
+<!-- Written by QtCreator 16.0.0, 2025-03-17T21:57:54. -->
 <qtcreator>
  <data>
   <variable>DebuggerItem.0</variable>
@@ -33,7 +33,7 @@
    <value type="QString" key="DisplayName">System LLDB at /usr/bin/lldb</value>
    <value type="int" key="EngineType">256</value>
    <value type="QString" key="Id">{016a678b-9a55-49a0-9986-cb1efef5ccf8}</value>
-   <value type="QDateTime" key="LastModified">2025-02-05T01:57:51.000</value>
+   <value type="QDateTime" key="LastModified">2025-03-06T19:06:02.000</value>
    <value type="QString" key="Version">1600.0.39.109</value>
    <value type="QString" key="WorkingDirectory"></value>
   </valuemap>
