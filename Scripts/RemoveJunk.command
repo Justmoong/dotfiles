@@ -2,6 +2,7 @@
 echo "Start Remove Junk"
 
 rm -rf ~/.cache
+rm -rf ~/.cups
 rm -rf ~/.npm
 rm -rf ~/.cargo
 rm -rf ~/.gradle
@@ -16,9 +17,11 @@ rm -rf ~/.vhdl_ls.toml
 rm -rf ~/.teroshdl2_prj.json
 rm -rf ~/.python_history
 rm -rf ~/.zsh_sessions
+rm -rf ~/.zsh_history
 rm -rf ~/.lesshst
 rm -rf ~/.node_repl_history
 rm -rf ~/.zshrc.backup
+rm -rf ~/.CFUserTextEncoding
 rm -rf ~/.DS_Store
 
 brew cleanup
@@ -27,7 +30,7 @@ brew upgrade
 brew cleanup
 echo "Brew Check Complete at $(date)." >> ~/checkbrew.log
 
-cd .dotfiles/
+cd ~/.dotfiles/
 echo "start sync .dotfiles on git"
 sudo git add .
 sudo git commit -m "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"

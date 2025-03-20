@@ -67,3 +67,4 @@ export PATH=$COCOS_X_ROOT:$PATH
 # Add environment variable COCOS_TEMPLATES_ROOT for cocos2d-x
 export COCOS_TEMPLATES_ROOT="/Users/ymy/Downloads/cocos2d-x-4.0/templates"
 export PATH=$COCOS_TEMPLATES_ROOT:$PATH
+alias terminal="open -a iTerm"

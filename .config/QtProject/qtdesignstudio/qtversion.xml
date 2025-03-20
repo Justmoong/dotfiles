@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorQtVersions>
+<!-- Written by QtDesignStudio 4.7.0, 2025-03-19T16:34:55. -->
+<qtcreator>
+ <data>
+  <variable>QtVersion.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="int" key="Id">1</value>
+   <value type="QString" key="Name">Designer specialized Qt %{Qt:Version}</value>
+   <value type="QString" key="QMakePath">/Applications/Qt Design Studio.app/Contents/Resources/qt6_design_studio_reduced_version/bin/qmake</value>
+   <value type="QString" key="QtVersion.Type">Qt4ProjectManager.QtVersion.Desktop</value>
+   <value type="QString" key="autodetectionSource">SDK.qt.tools.qtdesignstudio_qt6</value>
+   <value type="bool" key="isAutodetected">true</value>
+   <valuelist type="QVariantList" key="overrideFeatures">
+    <value type="QString">QtStudio</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>
