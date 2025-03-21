@@ -30,18 +30,11 @@ end tell
 "
 defaults write -g ApplePersistence -bool no
 
-echo "Syncing and purging memory caches..." >> $LOG_PATH
-sync
-sudo purge
-
 echo "Terminating user session for $(whoami)" >> $LOG_PATH
 sudo pkill -KILL -u $(whoami)
 
 echo "System log snapshot:" >> $LOG_PATH
 log show --info >> $LOG_PATH
-
-echo "System shutdown at $(date)" >> $LOG_PATH
-osascript -e 'tell application "System Events" to shut down'
 
 echo "System shutdown at $(date)" >> $LOG_PATH
 echo "----------------------------------------" >> $LOG_PATH
