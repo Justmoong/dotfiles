@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-LOG_PATH=~/.dotfiles/Scripts/Logs/AutoShutdownLog_$(date +"%Y%m%d_%H%M%S").txt
+LOG_PATH=~/.dotfiles/Scripts/Logs/AutoShutdownLog.txt
 
 mkdir -p ~/.dotfiles/Scripts/Logs
 touch $LOG_PATH
@@ -15,11 +15,9 @@ tell application \"System Events\"
         try
             do shell script \"echo Attempting to quit \" & quoted form of appName & \" >> $LOG_PATH\"
             tell application appName to quit
-            delay 5
             if (exists process appName) then
                 do shell script \"echo Second attempt to quit \" & quoted form of appName & \" >> $LOG_PATH\"
                 tell application appName to quit
-                delay 3
                 if (exists process appName) then
                     do shell script \"echo Forcibly killing \" & quoted form of appName & \" >> $LOG_PATH\"
                     do shell script \"killall \" & quoted form of appName
@@ -36,7 +34,6 @@ tell application \"System Events\"
 end tell
 "
 
-echo "Disabling automatic reopen of apps..." >> $LOG_PATH
 defaults write -g ApplePersistence -bool no
 
 echo "Syncing and purging memory caches..." >> $LOG_PATH
@@ -51,3 +48,7 @@ log show --info >> $LOG_PATH
 
 echo "System shutdown at $(date)" >> $LOG_PATH
 osascript -e 'tell application "System Events" to shut down'
+
+echo "System shutdown at $(date)" >> $LOG_PATH
+echo "----------------------------------------" >> $LOG_PATH
+sudo shutdown -h now

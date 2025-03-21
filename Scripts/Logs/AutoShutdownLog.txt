@@ -47,3 +47,12 @@ Syncing and purging memory caches...
 Terminating user session for ymy
 System log snapshot:
 System shutdown at 2025년 3월 22일 토요일 00시 01분 32초 KST
+=== Auto Shutdown Log ===
+Shutdown initiated at 2025년 3월 22일 토요일 00시 09분 35초 KST
+Attempting to quit Finder
+Error quitting Finder: System Events got an error: Connection is invalid.
+Attempting to quit Things3
+Syncing and purging memory caches...
+Terminating user session for ymy
+System log snapshot:
+System shutdown at 2025년 3월 22일 토요일 00시 09분 37초 KST
