@@ -1,0 +1,49 @@
+=== Auto Shutdown Log ===
+Shutdown initiated at 2025년 3월 21일 금요일 23시 59분 29초 KST
+Attempting to quit ChatGPT
+Second attempt to quit ChatGPT
+Forcibly killing ChatGPT
+Attempting to quit iTerm2
+Second attempt to quit iTerm2
+Forcibly killing iTerm2
+Attempting to quit UpNote
+Second attempt to quit UpNote
+Forcibly killing UpNote
+Attempting to quit Safari
+Second attempt to quit Safari
+Forcibly killing Safari
+Attempting to quit CrealityPrint
+Second attempt to quit CrealityPrint
+Forcibly killing CrealityPrint
+Attempting to quit System Settings
+Second attempt to quit System Settings
+Forcibly killing System Settings
+Attempting to quit Claquette
+Second attempt to quit Claquette
+Forcibly killing Claquette
+Attempting to quit Translatium
+Second attempt to quit Translatium
+Forcibly killing Translatium
+Attempting to quit Stickies
+Second attempt to quit Stickies
+Forcibly killing Stickies
+Attempting to quit BusyCal
+Second attempt to quit BusyCal
+Forcibly killing BusyCal
+Attempting to quit Things3
+Second attempt to quit Things3
+Forcibly killing Things3
+Attempting to quit Finder
+Second attempt to quit Finder
+Forcibly killing Finder
+Attempting to quit SnippetsLab
+Second attempt to quit SnippetsLab
+Forcibly killing SnippetsLab
+Attempting to quit CotEditor
+Second attempt to quit CotEditor
+Forcibly killing CotEditor
+Disabling automatic reopen of apps...
+Syncing and purging memory caches...
+Terminating user session for ymy
+System log snapshot:
+System shutdown at 2025년 3월 22일 토요일 00시 01분 32초 KST
