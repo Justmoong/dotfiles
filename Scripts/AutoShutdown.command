@@ -13,17 +13,12 @@ tell application \"System Events\"
     set appList to (name of every process whose background only is false)
     repeat with appName in appList
         try
-            do shell script \"echo Attempting to quit \" & quoted form of appName & \" >> $LOG_PATH\"
+            do shell script \"echo Quitting \" & quoted form of appName & \" >> $LOG_PATH\"
             tell application appName to quit
+            delay 0.5
             if (exists process appName) then
-                do shell script \"echo Second attempt to quit \" & quoted form of appName & \" >> $LOG_PATH\"
-                tell application appName to quit
-                if (exists process appName) then
-                    do shell script \"echo Forcibly killing \" & quoted form of appName & \" >> $LOG_PATH\"
-                    do shell script \"killall \" & quoted form of appName
-                else
-                    do shell script \"echo Successfully quit after second attempt \" & quoted form of appName & \" >> $LOG_PATH\"
-                end if
+                do shell script \"echo Forcibly killing \" & quoted form of appName & \" >> $LOG_PATH\"
+                do shell script \"killall \" & quoted form of appName
             else
                 do shell script \"echo Successfully quit \" & quoted form of appName & \" >> $LOG_PATH\"
             end if
@@ -33,7 +28,6 @@ tell application \"System Events\"
     end repeat
 end tell
 "
-
 defaults write -g ApplePersistence -bool no
 
 echo "Syncing and purging memory caches..." >> $LOG_PATH
