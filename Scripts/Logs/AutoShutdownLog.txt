@@ -122,3 +122,31 @@ Terminating user session for ymy
 System log snapshot:
 System shutdown at 2025년 3월 22일 토요일 00시 16분 38초 KST
 ----------------------------------------
+=== Auto Shutdown Log ===
+Shutdown initiated at 2025년 3월 22일 토요일 09시 56분 23초 KST
+Quitting Things3
+Forcibly killing Things3
+Quitting Finder
+Forcibly killing Finder
+Quitting iTerm2
+Forcibly killing iTerm2
+Quitting UpNote
+Forcibly killing UpNote
+Quitting SnippetsLab
+Forcibly killing SnippetsLab
+Quitting Claquette
+Forcibly killing Claquette
+Quitting Translatium
+Forcibly killing Translatium
+Quitting ChatGPT
+Forcibly killing ChatGPT
+Quitting Stickies
+Forcibly killing Stickies
+Quitting Safari
+Forcibly killing Safari
+Quitting BusyCal
+Forcibly killing BusyCal
+Terminating user session for ymy
+System log snapshot:
+System shutdown at 2025년 3월 22일 토요일 09시 56분 33초 KST
+----------------------------------------
