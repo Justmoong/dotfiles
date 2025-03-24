@@ -15,7 +15,7 @@
           <widget name="Components" closed="true"/>
           <widget name="Assets" closed="false"/>
         </area>
-        <sizes>529 0 535</sizes>
+        <sizes>846 0 856</sizes>
       </splitter>
       <splitter orientation="Vertical" count="2">
         <splitter orientation="Horizontal" count="2">
@@ -26,7 +26,7 @@
             <area tabs="1" current="Editor3D">
               <widget name="Editor3D" closed="true"/>
             </area>
-            <sizes>1065 0</sizes>
+            <sizes>1703 0</sizes>
           </splitter>
           <splitter orientation="Vertical" count="2">
             <area tabs="1" current="TextEditor">
@@ -37,7 +37,7 @@
             </area>
             <sizes>0 0</sizes>
           </splitter>
-          <sizes>834 0</sizes>
+          <sizes>1473 0</sizes>
         </splitter>
         <splitter orientation="Horizontal" count="2">
           <area tabs="2" current="Timelines">
@@ -50,7 +50,7 @@
           </area>
           <sizes>0 0</sizes>
         </splitter>
-        <sizes>1065 0</sizes>
+        <sizes>1703 0</sizes>
       </splitter>
       <splitter orientation="Vertical" count="2">
         <area tabs="1" current="Properties">
@@ -59,9 +59,9 @@
         <area tabs="1" current="ConnectionView">
           <widget name="ConnectionView" closed="true"/>
         </area>
-        <sizes>1065 0</sizes>
+        <sizes>1703 0</sizes>
       </splitter>
-      <sizes>250 834 340</sizes>
+      <sizes>441 1473 600</sizes>
     </splitter>
   </container>
 </QtAdvancedDockingSystem>
