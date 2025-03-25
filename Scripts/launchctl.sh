@@ -8,3 +8,5 @@ launchctl load ~/Library/LaunchAgents/com.user.LaunchTasks.plist
 
 launchctl start com.user.SafariAutomaticStableDiffusionWindow
 launchctl start com.user.LaunchTasks
+
+ls -l ~/Library/LaunchAgents

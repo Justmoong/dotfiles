@@ -1,6 +1,4 @@
 #!/bin/zsh
-# pass sudo password
-sudo -v
 
 ln -s ~/.dotfiles/.config ~/.config
 

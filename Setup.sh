@@ -17,3 +17,4 @@ chmod +x /Users/ymy/.dotfiles/Scripts/launchctl.sh
 wait 10
 
 #/Users/ymy/.dotfiles/.macos
+# brew bundle
