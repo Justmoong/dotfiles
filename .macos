@@ -179,12 +179,6 @@ defaults write com.apple.QuickTimePlayerX MGPlayMovieOnOpen -bool true
 # Disable Gatekeeper For Permission
 sudo spctl --master-disable
 
-
-
-##############################################################################
-# No Categorize Yet
-##############################################################################
-
 # Restart All For Apply
 killAll Dock
 echo "macOS setup done, Now reboot system after 5 secs"
