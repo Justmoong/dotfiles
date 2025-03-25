@@ -1,20 +1,26 @@
-##############################################################################
-# Run Script Automatically
-##############################################################################
+#!/bin/zsh
+
+user=$(whoami)
 
 sudo -v
 
-chmod +x /Users/ymy/.dotfiles/Scripts/sudo.sh
-chmod +x /Users/ymy/.dotfiles/Scripts/symlink.sh
-chmod +x /Users/ymy/.dotfiles/Scripts/InstallHomebrew.sh
-chmod +x /Users/ymy/.dotfiles/Scripts/launchctl.sh
+chmod +x ~/.dotfiles/Scripts/*.sh
 
-/Users/ymy/.dotfiles/Scripts/sudo.sh
-/Users/ymy/.dotfiles/Scripts/symlink.sh
-/Users/ymy/.dotfiles/Scripts/InstallHomebrew.sh
-/Users/ymy/.dotfiles/Scripts/launchctl.sh
+~/.dotfiles/Scripts/InstallHomebrew.sh
+echo "Homebrew installed"
 
-wait 10
+~/.dotfiles/Scripts/sudo.sh
+echo "Set NOPASSWD sudo"
 
-#/Users/ymy/.dotfiles/.macos
-# brew bundle
+~/.dotfiles/Scripts/symlink.sh
+echo "Symlink dir $user dir"
+
+~/.dotfiles/Scripts/launchctl.sh
+echo "Apply launchd"
+
+~/.macos
+echo "Apply macOS Preference "
+
+echo "Start Install All Required Packages"
+brew bundle
+echo "All Package Installed"
