@@ -20,7 +20,7 @@ echo "Symlink dir $user dir"
 ~/.dotfiles/Scripts/launchctl.sh
 echo "Apply launchd"
 
-~/.macos
+~/macOS/macos
 echo "Apply macOS Preference "
 
 echo "Start Install All Required Packages"
@@ -30,3 +30,5 @@ echo "All Package Installed"
 brew doctor
 brew --version
 ls -l ~/.dotfiles
+
+sudo reboot
