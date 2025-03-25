@@ -3,9 +3,11 @@
 user=$(whoami)
 
 sudo -v
+zsh --version
 
 chmod +x ~/.dotfiles/Scripts/*.sh
 
+xcode-select --install
 ~/.dotfiles/Scripts/InstallHomebrew.sh
 echo "Homebrew installed"
 
@@ -24,3 +26,7 @@ echo "Apply macOS Preference "
 echo "Start Install All Required Packages"
 brew bundle
 echo "All Package Installed"
+
+brew doctor
+brew --version
+ls -l ~/.dotfiles
