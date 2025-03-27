@@ -1,5 +1,6 @@
 #! /bin/zsh
-echo "Start Remove Junk"
+
+echo "Start LaunchTasks"
 
 rm -rf ~/.cache
 rm -rf ~/.cups
@@ -39,8 +40,6 @@ echo "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
 echo "Done"
 cd
 
-echo "System Launch Cleanup has done"
-
-wait 5
+echo "System Launch Cleanup has done" >> ~/.dotfiles/Scripts/Logs/launch_cleanup.log
 
 osascript -e 'tell application "iTerm2" to tell current tab to close'
