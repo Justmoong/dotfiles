@@ -22,7 +22,7 @@ mkdir ~/Library/LaunchAgents
 ~/.dotfiles/Scripts/launchctl.sh
 echo "Apply launchd"
 
-~/macOS/macos
+~/.dotfiles/macOS/macos
 echo "Apply macOS Preference "
 
 echo "Start Install All Required Packages"
