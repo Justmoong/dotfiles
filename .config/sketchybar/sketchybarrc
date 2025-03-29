@@ -1,0 +1,26 @@
+#!/bin/zsh
+
+source "$HOME/.config/sketchybar/colors.sh"
+source "$HOME/.config/sketchybar/icons.sh"
+
+
+# group functions
+bar=(
+  height=32
+  blur_radius=10
+  position=top
+  sticky=off
+  padding_left=10
+  padding_right=10
+  corner_radius=12
+  margin=12
+)
+
+sketchybar --bar "${bar[@]}"
+
+# 아이콘 추가
+sketchybar --add item date right
+sketchybar --set date label="$(date '+%Y-%m-%d %H:%M:%S')" \
+                   update_freq=1 \
+
+
