@@ -12,6 +12,7 @@ elif [ -f /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme ]; then
 fi
 
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
