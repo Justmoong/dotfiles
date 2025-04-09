@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtDesignStudio 4.7.1, 2025-04-08T19:52:31. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#242424</value>
+ </data>
+ <data>
+  <variable>DeployProjectDependencies</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAACCAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBVAG4AdABpAHQAbABlAGQAUAByAG8AagBlAGMAdAAvAFUAbgB0AGkAdABsAGUAZABQAHIAbwBqAGUAYwB0AEMAbwBuAHQAZQBuAHQALwBTAGMAcgBlAGUAbgAwADEALgB1AGkALgBxAG0AbAAAAAwAAAAAJAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAIgAAAAEAAACCAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBVAG4AdABpAHQAbABlAGQAUAByAG8AagBlAGMAdAAvAFUAbgB0AGkAdABsAGUAZABQAHIAbwBqAGUAYwB0AEMAbwBuAHQAZQBuAHQALwBTAGMAcgBlAGUAbgAwADEALgB1AGkALgBxAG0AbAAAAB4AUwBjAHIAZQBlAG4AMAAxAC4AdQBpAC4AcQBtAGwAAAAhUW1sSlNFZGl0b3IuUXRRdWlja0Rlc2lnbmVyRWRpdG9yAAAAAdwAAAANY3VycmVudGVkaXRvcgAAAIIALwBVAHMAZQByAHMALwB5AG0AeQAvAFUAbgB0AGkAdABsAGUAZABQAHIAbwBqAGUAYwB0AC8AVQBuAHQAaQB0AGwAZQBkAFAAcgBvAGoAZQBjAHQAQwBvAG4AdABlAG4AdAAvAFMAYwByAGUAZQBuADAAMQAuAHUAaQAuAHEAbQBsAAAAQgBRAG0AbABKAFMARQBkAGkAdABvAHIALgBRAHQAUQB1AGkAYwBrAEQAZQBzAGkAZwBuAGUAcgBFAGQAaQB0AG8AcgAAACQAAAACAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAACIAAAABAAAAzwAAAIIALwBVAHMAZQByAHMALwB5AG0AeQAvAFUAbgB0AGkAdABsAGUAZABQAHIAbwBqAGUAYwB0AC8AVQBuAHQAaQB0AGwAZQBkAFAAcgBvAGoAZQBjAHQAQwBvAG4AdABlAG4AdAAvAFMAYwByAGUAZQBuADAAMQAuAHUAaQAuAHEAbQBsAAAAIVFtbEpTRWRpdG9yLlF0UXVpY2tEZXNpZ25lckVkaXRvcgAAACAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAHQAAAAA=</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/Users/ymy/UntitledProject/UntitledProject.qmlproject</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/Users/ymy/UntitledProject/UntitledProject.qmlproject</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Design</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-Find</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">AssetExporter.Export</value>
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">Find</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+  </valuelist>
+ </data>
+</qtcreator>

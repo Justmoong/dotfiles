@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<QtAdvancedDockingSystem containers="1" displayName="Advanced 2D" mcusEnabled="true" userVersion="0" version="1">
+  <container floating="false">
+    <splitter count="3" orientation="Horizontal">
+      <splitter count="3" orientation="Vertical">
+        <area current="Navigator" tabs="3">
+          <widget closed="false" name="Navigator"/>
+          <widget closed="false" name="Projects"/>
+          <widget closed="false" name="FileSystem"/>
+        </area>
+        <area current="Components" tabs="3">
+          <widget closed="false" name="Components"/>
+          <widget closed="false" name="Assets"/>
+          <widget closed="true" name="DebugView"/>
+        </area>
+        <area current="OpenDocuments" tabs="1">
+          <widget closed="true" name="OpenDocuments"/>
+        </area>
+        <sizes>668 627 0</sizes>
+      </splitter>
+      <splitter count="3" orientation="Vertical">
+        <splitter count="2" orientation="Horizontal">
+          <area current="FormEditor" tabs="1">
+            <widget closed="false" name="FormEditor"/>
+          </area>
+          <area current="TextEditor" tabs="1">
+            <widget closed="false" name="TextEditor"/>
+          </area>
+          <sizes>865 730</sizes>
+        </splitter>
+        <area current="StatesEditor" tabs="4">
+          <widget closed="false" name="StatesEditor"/>
+          <widget closed="false" name="Timelines"/>
+          <widget closed="false" name="CurveEditorId"/>
+          <widget closed="false" name="TransitionEditor"/>
+        </area>
+        <area current="OutputPane" tabs="1">
+          <widget closed="true" name="OutputPane"/>
+        </area>
+        <sizes>1011 284 0</sizes>
+      </splitter>
+      <splitter count="2" orientation="Vertical">
+        <area current="Properties" tabs="1">
+          <widget closed="false" name="Properties"/>
+        </area>
+        <area current="ConnectionView" tabs="2">
+          <widget closed="false" name="ConnectionView"/>
+          <widget closed="false" name="EffectComposer"/>
+        </area>
+        <sizes>870 425</sizes>
+      </splitter>
+      <sizes>475 1596 487</sizes>
+    </splitter>
+  </container>
+</QtAdvancedDockingSystem>

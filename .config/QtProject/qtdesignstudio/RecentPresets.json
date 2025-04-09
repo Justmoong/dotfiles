@@ -1,0 +1,12 @@
+[
+    {
+        "categoryId": "B.StudioProject",
+        "enableCMakeGeneration": true,
+        "name": "Empty",
+        "qtVersion": "Qt 6.8",
+        "screenSize": "1920 x 1080",
+        "styleName": "Basic",
+        "useQtVirtualKeyboard": false,
+        "wizardName": "Empty"
+    }
+]

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorDebuggers>
+<!-- Written by QtCreator 16.0.0, 2025-04-08T19:50:50. -->
+<qtcreator>
+ <data>
+  <variable>DebuggerItem.0</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="Abis">
+    <value type="QString">x86-darwin-generic-mach_o-64bit</value>
+    <value type="QString">arm-darwin-generic-mach_o-64bit</value>
+   </valuelist>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="Binary">/Applications/Xcode.app/Contents/Developer/usr/bin/lldb</value>
+   <value type="QString" key="DetectionSource"></value>
+   <value type="QString" key="DisplayName">System LLDB at /Applications/Xcode.app/Contents/Developer/usr/bin/lldb</value>
+   <value type="int" key="EngineType">256</value>
+   <value type="QString" key="Id">{744df5ee-8d2f-4c71-bec3-5a49d875c36d}</value>
+   <value type="QDateTime" key="LastModified">2025-03-26T21:59:59.000</value>
+   <value type="QString" key="Version">1700.0.9.46</value>
+   <value type="QString" key="WorkingDirectory"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>DebuggerItem.1</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="Abis">
+    <value type="QString">x86-darwin-generic-mach_o-64bit</value>
+    <value type="QString">arm-darwin-generic-mach_o-64bit</value>
+   </valuelist>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="Binary">/usr/bin/lldb</value>
+   <value type="QString" key="DetectionSource"></value>
+   <value type="QString" key="DisplayName">System LLDB at /usr/bin/lldb</value>
+   <value type="int" key="EngineType">256</value>
+   <value type="QString" key="Id">{7ceab579-c825-44c0-b620-96ee3978b15b}</value>
+   <value type="QDateTime" key="LastModified">2025-03-27T20:00:33.000</value>
+   <value type="QString" key="Version">1700.0.9.46</value>
+   <value type="QString" key="WorkingDirectory"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>DebuggerItem.Count</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>
