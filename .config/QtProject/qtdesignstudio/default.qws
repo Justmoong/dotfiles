@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtDesignStudio 4.7.1, 2025-04-08T19:52:31. -->
+<!-- Written by QtDesignStudio 4.7.1, 2025-04-21T17:13:05. -->
 <qtcreator>
  <data>
   <variable>CascadeSetActive</variable>
@@ -16,7 +16,7 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAACCAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBVAG4AdABpAHQAbABlAGQAUAByAG8AagBlAGMAdAAvAFUAbgB0AGkAdABsAGUAZABQAHIAbwBqAGUAYwB0AEMAbwBuAHQAZQBuAHQALwBTAGMAcgBlAGUAbgAwADEALgB1AGkALgBxAG0AbAAAAAwAAAAAJAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAIgAAAAEAAACCAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBVAG4AdABpAHQAbABlAGQAUAByAG8AagBlAGMAdAAvAFUAbgB0AGkAdABsAGUAZABQAHIAbwBqAGUAYwB0AEMAbwBuAHQAZQBuAHQALwBTAGMAcgBlAGUAbgAwADEALgB1AGkALgBxAG0AbAAAAB4AUwBjAHIAZQBlAG4AMAAxAC4AdQBpAC4AcQBtAGwAAAAhUW1sSlNFZGl0b3IuUXRRdWlja0Rlc2lnbmVyRWRpdG9yAAAAAdwAAAANY3VycmVudGVkaXRvcgAAAIIALwBVAHMAZQByAHMALwB5AG0AeQAvAFUAbgB0AGkAdABsAGUAZABQAHIAbwBqAGUAYwB0AC8AVQBuAHQAaQB0AGwAZQBkAFAAcgBvAGoAZQBjAHQAQwBvAG4AdABlAG4AdAAvAFMAYwByAGUAZQBuADAAMQAuAHUAaQAuAHEAbQBsAAAAQgBRAG0AbABKAFMARQBkAGkAdABvAHIALgBRAHQAUQB1AGkAYwBrAEQAZQBzAGkAZwBuAGUAcgBFAGQAaQB0AG8AcgAAACQAAAACAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAACIAAAABAAAAzwAAAIIALwBVAHMAZQByAHMALwB5AG0AeQAvAFUAbgB0AGkAdABsAGUAZABQAHIAbwBqAGUAYwB0AC8AVQBuAHQAaQB0AGwAZQBkAFAAcgBvAGoAZQBjAHQAQwBvAG4AdABlAG4AdAAvAFMAYwByAGUAZQBuADAAMQAuAHUAaQAuAHEAbQBsAAAAIVFtbEpTRWRpdG9yLlF0UXVpY2tEZXNpZ25lckVkaXRvcgAAACAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAHQAAAAA=</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAACcAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBEAGUAdgBlAGwAbwBwAGUAcgAvAFUASQAvAFUAbgB0AGkAdABsAGUAZABQAHIAbwBqAGUAYwB0AC8AVQBuAHQAaQB0AGwAZQBkAFAAcgBvAGoAZQBjAHQAQwBvAG4AdABlAG4AdAAvAFMAYwByAGUAZQBuADAAMQAuAHUAaQAuAHEAbQBsAAAADAAAAAAkAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAiAAAAAQAAAJwALwBVAHMAZQByAHMALwB5AG0AeQAvAEQAZQB2AGUAbABvAHAAZQByAC8AVQBJAC8AVQBuAHQAaQB0AGwAZQBkAFAAcgBvAGoAZQBjAHQALwBVAG4AdABpAHQAbABlAGQAUAByAG8AagBlAGMAdABDAG8AbgB0AGUAbgB0AC8AUwBjAHIAZQBlAG4AMAAxAC4AdQBpAC4AcQBtAGwAAAAeAFMAYwByAGUAZQBuADAAMQAuAHUAaQAuAHEAbQBsAAAAIVFtbEpTRWRpdG9yLlF0UXVpY2tEZXNpZ25lckVkaXRvcgAAAAIQAAAADWN1cnJlbnRlZGl0b3IAAACcAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBEAGUAdgBlAGwAbwBwAGUAcgAvAFUASQAvAFUAbgB0AGkAdABsAGUAZABQAHIAbwBqAGUAYwB0AC8AVQBuAHQAaQB0AGwAZQBkAFAAcgBvAGoAZQBjAHQAQwBvAG4AdABlAG4AdAAvAFMAYwByAGUAZQBuADAAMQAuAHUAaQAuAHEAbQBsAAAAQgBRAG0AbABKAFMARQBkAGkAdABvAHIALgBRAHQAUQB1AGkAYwBrAEQAZQBzAGkAZwBuAGUAcgBFAGQAaQB0AG8AcgAAACQAAAACAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAACIAAAABAAAA6QAAAJwALwBVAHMAZQByAHMALwB5AG0AeQAvAEQAZQB2AGUAbABvAHAAZQByAC8AVQBJAC8AVQBuAHQAaQB0AGwAZQBkAFAAcgBvAGoAZQBjAHQALwBVAG4AdABpAHQAbABlAGQAUAByAG8AagBlAGMAdABDAG8AbgB0AGUAbgB0AC8AUwBjAHIAZQBlAG4AMAAxAC4AdQBpAC4AcQBtAGwAAAAhUW1sSlNFZGl0b3IuUXRRdWlja0Rlc2lnbmVyRWRpdG9yAAAAIAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAdAAAAAA==</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -25,12 +25,12 @@
  <data>
   <variable>ProjectList</variable>
   <valuelist type="QVariantList">
-   <value type="QString">/Users/ymy/UntitledProject/UntitledProject.qmlproject</value>
+   <value type="QString">/Users/ymy/Developer/UI/UntitledProject/UntitledProject.qmlproject</value>
   </valuelist>
  </data>
  <data>
   <variable>StartupProject</variable>
-  <value type="QString">/Users/ymy/UntitledProject/UntitledProject.qmlproject</value>
+  <value type="QString">/Users/ymy/Developer/UI/UntitledProject/UntitledProject.qmlproject</value>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
@@ -46,13 +46,22 @@
  </data>
  <data>
   <variable>value-ProjectTree.ExpandData</variable>
-  <valuelist type="QVariantList"/>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/Users/ymy/Developer/UI/UntitledProject</value>
+    <value type="int">200000</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/Users/ymy/Developer/UI/UntitledProject/UntitledProjectContent</value>
+    <value type="int">200000</value>
+   </valuelist>
+  </valuelist>
  </data>
  <data>
   <variable>value-TaskWindow.Categories</variable>
   <valuelist type="QVariantList">
-   <value type="QString">AssetExporter.Export</value>
    <value type="QString">Task.Category.QmlAnalysis</value>
+   <value type="QString">AssetExporter.Export</value>
   </valuelist>
  </data>
  <data>

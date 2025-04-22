@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 16.0.0, 2025-04-08T19:52:05. -->
+<!-- Written by QtCreator 16.0.1, 2025-04-21T17:31:26. -->
 <qtcreator>
  <data>
+  <variable>AutoTest.MessageFilter</variable>
+  <valuelist type="QVariantList">
+   <value type="int">3</value>
+   <value type="int">6</value>
+   <value type="int">2</value>
+   <value type="int">16</value>
+   <value type="int">21</value>
+   <value type="int">1</value>
+   <value type="int">11</value>
+   <value type="int">12</value>
+   <value type="int">4</value>
+   <value type="int">10</value>
+   <value type="int">20</value>
+   <value type="int">14</value>
+   <value type="int">15</value>
+   <value type="int">7</value>
+   <value type="int">22</value>
+   <value type="int">13</value>
+   <value type="int">5</value>
+   <value type="int">0</value>
+   <value type="int">8</value>
+   <value type="int">9</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>AutoTest.ShowDurations</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#1e1e1e</value>
+ </data>
+ <data>
+  <variable>DeployProjectDependencies</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAABUAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBEAGUAdgBlAGwAbwBwAGUAcgAvAFcAbwByAGsAZgBsAG8AdwBUAGUAcwB0AC8AbQBhAGkAbgAuAGMAcABwAAAADAAAAAAgAAAAAgAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAsAAAABAAAAVAAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBXAG8AcgBrAGYAbABvAHcAVABlAHMAdAAvAG0AYQBpAG4ALgBjAHAAcAAAABAAbQBhAGkAbgAuAGMAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAAABUgAAAA1jdXJyZW50ZWRpdG9yAAAAVAAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBXAG8AcgBrAGYAbABvAHcAVABlAHMAdAAvAG0AYQBpAG4ALgBjAHAAcAAAACYAQwBwAHAARQBkAGkAdABvAHIALgBDACsAKwBFAGQAaQB0AG8AcgAAACAAAAACAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAACwAAAAEAAACTAAAAVAAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBXAG8AcgBrAGYAbABvAHcAVABlAHMAdAAvAG0AYQBpAG4ALgBjAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAIAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAALAAAAAA==</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
   <variable>value-ActiveMode</variable>
-  <value type="QString">ExtensionManager</value>
+  <value type="QString">Help</value>
  </data>
  <data>
   <variable>value-Breakpoints</variable>
@@ -12,7 +65,30 @@
  </data>
  <data>
   <variable>value-Find</variable>
-  <valuemap type="QVariantMap"/>
+  <valuemap type="QVariantMap">
+   <valuemap type="QVariantMap" key="AdvancedSearch">
+    <valuemap type="QVariantMap" key="All Projects">
+     <value type="QString" key="currentFilter"></value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="Current File">
+     <value type="QString" key="currentFilter"></value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="Current Project">
+     <value type="QString" key="currentFilter"></value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="Files in All Project Directories">
+     <value type="QString" key="currentExclusionFilter"></value>
+     <value type="QString" key="currentFilter"></value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="Files on Disk">
+     <value type="QString" key="currentExclusionFilter"></value>
+     <value type="QString" key="currentFilter"></value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="Open Files">
+     <value type="QString" key="currentFilter"></value>
+    </valuemap>
+   </valuemap>
+  </valuemap>
  </data>
  <data>
   <variable>value-ProjectTree.ExpandData</variable>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 16.0.0, 2025-04-08T19:50:21. -->
+<!-- Written by QtCreator 16.0.1, 2025-04-21T17:26:27. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -108,8 +108,9 @@
      <value type="QByteArray" key="C">{370b49f0-155a-4bd0-b65c-bedf3fd5b8e5}</value>
      <value type="QByteArray" key="Cxx">{832980b8-5f14-4193-baaf-e0eae17b2f2a}</value>
     </valuemap>
+    <value type="int" key="QtSupport.QtInformation">-1</value>
    </valuemap>
-   <value type="QString" key="PE.Profile.DeviceTypeForIcon"></value>
+   <value type="QString" key="PE.Profile.DeviceTypeForIcon">Desktop</value>
    <value type="QString" key="PE.Profile.Icon"></value>
    <value type="QString" key="PE.Profile.Id">{cba50b06-0edd-4795-8a34-cd196c476fc4}</value>
    <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
@@ -142,8 +143,45 @@
   </valuemap>
  </data>
  <data>
+  <variable>Profile.4</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="PE.Profile.AutoDetected">false</value>
+   <value type="QString" key="PE.Profile.AutoDetectionSource"></value>
+   <valuemap type="QVariantMap" key="PE.Profile.Data">
+    <valuelist type="QVariantList" key="CMake.ConfigurationKitInformation">
+     <value type="QString">QT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}</value>
+     <value type="QString">CMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}</value>
+     <value type="QString">CMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}</value>
+     <value type="QString">CMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
+    </valuelist>
+    <valuemap type="QVariantMap" key="CMake.GeneratorKitInformation">
+     <value type="QString" key="ExtraGenerator"></value>
+     <value type="QString" key="Generator">Unix Makefiles</value>
+     <value type="QString" key="Platform"></value>
+     <value type="QString" key="Toolset"></value>
+    </valuemap>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+    <value type="QString" key="Debugger.Information">{7ceab579-c825-44c0-b620-96ee3978b15b}</value>
+    <value type="QByteArray" key="PE.Profile.BuildDeviceType">Desktop</value>
+    <value type="QByteArray" key="PE.Profile.DeviceType">Desktop</value>
+    <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
+     <value type="QByteArray" key="C">{4d1635b0-338f-4a82-8441-af1aa01b9531}</value>
+     <value type="QByteArray" key="Cxx">{cb5c8064-c4f1-4cde-aa24-1c2a003d0fa2}</value>
+    </valuemap>
+    <value type="int" key="QtSupport.QtInformation">1</value>
+   </valuemap>
+   <value type="QString" key="PE.Profile.DeviceTypeForIcon">Desktop</value>
+   <value type="QString" key="PE.Profile.Icon"></value>
+   <value type="QString" key="PE.Profile.Id">{5958c616-9ee4-437f-8014-709253a878ca}</value>
+   <valuelist type="QVariantList" key="PE.Profile.MutableInfo"/>
+   <value type="QString" key="PE.Profile.Name">DesktopApp</value>
+   <value type="bool" key="PE.Profile.SDK">false</value>
+   <valuelist type="QVariantList" key="PE.Profile.StickyInfo"/>
+  </valuemap>
+ </data>
+ <data>
   <variable>Profile.Count</variable>
-  <value type="int">4</value>
+  <value type="int">5</value>
  </data>
  <data>
   <variable>Profile.Default</variable>
