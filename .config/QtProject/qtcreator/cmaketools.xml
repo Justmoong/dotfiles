@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorCMakeTools>
-<!-- Written by QtCreator 16.0.0, 2025-04-08T19:50:18. -->
+<!-- Written by QtCreator 16.0.1, 2025-04-22T12:52:16. -->
 <qtcreator>
  <data>
   <variable>CMakeTools.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="AutoCreateBuildDirectory">false</value>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="Binary">/Users/ymy/Qt/Tools/CMake/CMake.app/Contents/MacOS/CMake</value>
+   <value type="QString" key="DetectionSource"></value>
+   <value type="QString" key="DisplayName">CMake 3.30.5 (Qt)</value>
+   <value type="QString" key="Id">qt.tools.cmake</value>
+   <value type="QString" key="QchFile">/Users/ymy/Qt/Tools/CMake/CMake.app/Contents/doc/cmake/CMake.qch</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>CMakeTools.1</variable>
   <valuemap type="QVariantMap">
    <value type="bool" key="AutoCreateBuildDirectory">false</value>
    <value type="bool" key="AutoDetected">true</value>
@@ -16,7 +28,7 @@
  </data>
  <data>
   <variable>CMakeTools.Count</variable>
-  <value type="int">1</value>
+  <value type="int">2</value>
  </data>
  <data>
   <variable>CMakeTools.Default</variable>

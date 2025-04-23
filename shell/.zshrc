@@ -47,3 +47,5 @@ eval "$(rbenv init - zsh)"
 
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
 export PATH="$PATH:/Users/ymy/.lmstudio/bin"
+export PATH=/Users/ymy/Qt/6.10.0/macos/bin:$PATH
+export PATH=/Users/ymy/Qt/6.9.0/macos/bin:$PATH
