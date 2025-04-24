@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 16.0.1, 2025-04-22T23:51:13. -->
+<!-- Written by QtCreator 16.0.1, 2025-04-23T21:02:07. -->
 <qtcreator>
  <data>
   <variable>AutoTest.MessageFilter</variable>
   <valuelist type="QVariantList">
-   <value type="int">12</value>
-   <value type="int">22</value>
-   <value type="int">4</value>
-   <value type="int">13</value>
-   <value type="int">1</value>
-   <value type="int">14</value>
-   <value type="int">20</value>
-   <value type="int">6</value>
-   <value type="int">15</value>
-   <value type="int">21</value>
-   <value type="int">0</value>
-   <value type="int">5</value>
-   <value type="int">10</value>
-   <value type="int">2</value>
-   <value type="int">16</value>
-   <value type="int">9</value>
-   <value type="int">11</value>
-   <value type="int">7</value>
-   <value type="int">3</value>
    <value type="int">8</value>
+   <value type="int">2</value>
+   <value type="int">21</value>
+   <value type="int">6</value>
+   <value type="int">16</value>
+   <value type="int">13</value>
+   <value type="int">4</value>
+   <value type="int">0</value>
+   <value type="int">14</value>
+   <value type="int">11</value>
+   <value type="int">20</value>
+   <value type="int">3</value>
+   <value type="int">7</value>
+   <value type="int">22</value>
+   <value type="int">5</value>
+   <value type="int">15</value>
+   <value type="int">12</value>
+   <value type="int">1</value>
+   <value type="int">10</value>
+   <value type="int">9</value>
   </valuelist>
  </data>
  <data>
@@ -45,7 +45,7 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">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</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAABOAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBEAGUAdgBlAGwAbwBwAGUAcgAvAFAAaABvAHQAbwBWAGkAZQB3AC8ATQBhAGkAbgAuAHEAbQBsAAAADAAAAAAgAAAAAgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAgAAAABAAAATgAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBQAGgAbwB0AG8AVgBpAGUAdwAvAE0AYQBpAG4ALgBxAG0AbAAAABAATQBhAGkAbgAuAHEAbQBsAAAAF1FtbEpTRWRpdG9yLlFNTEpTRWRpdG9yAAAAAVIAAAANY3VycmVudGVkaXRvcgAAAE4ALwBVAHMAZQByAHMALwB5AG0AeQAvAEQAZQB2AGUAbABvAHAAZQByAC8AUABoAG8AdABvAFYAaQBlAHcALwBNAGEAaQBuAC4AcQBtAGwAAAAuAFEAbQBsAEoAUwBFAGQAaQB0AG8AcgAuAFEATQBMAEoAUwBFAGQAaQB0AG8AcgAAACAAAAACAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAACAAAAAEAAACRAAAATgAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBQAGgAbwB0AG8AVgBpAGUAdwAvAE0AYQBpAG4ALgBxAG0AbAAAABdRbWxKU0VkaXRvci5RTUxKU0VkaXRvcgAAACAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAACAAAAAA=</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -54,12 +54,12 @@
  <data>
   <variable>ProjectList</variable>
   <valuelist type="QVariantList">
-   <value type="QString">/Users/ymy/Developer/QtQuickApp/CMakeLists.txt</value>
+   <value type="QString">/Users/ymy/Developer/PhotoView/CMakeLists.txt</value>
   </valuelist>
  </data>
  <data>
   <variable>StartupProject</variable>
-  <value type="QString">/Users/ymy/Developer/QtQuickApp/CMakeLists.txt</value>
+  <value type="QString">/Users/ymy/Developer/PhotoView/CMakeLists.txt</value>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
@@ -100,43 +100,11 @@
   <variable>value-ProjectTree.ExpandData</variable>
   <valuelist type="QVariantList">
    <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/QtQuickApp/build/Qt_6_9_0_for_iOS/.qt/launch_screen_storyboards/appQtQuickApp</value>
-    <value type="int">200000</value>
+    <value type="QString">/Users/ymy/Developer/PhotoView</value>
+    <value type="int">-6</value>
    </valuelist>
    <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Qt/6.9.0/macos/lib/cmake</value>
-    <value type="int">200000</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString"></value>
-    <value type="int">10</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/QtQuickApp</value>
-    <value type="int">200005</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/QtQuickApp</value>
-    <value type="int">200000</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/QtQuickApp/build/Qt_6_9_0_for_iOS</value>
-    <value type="int">100</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/QtQuickApp</value>
-    <value type="int">-10</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/QtQuickApp/build/Qt_6_9_0_for_iOS/.qt</value>
-    <value type="int">200000</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/QtQuickApp</value>
-    <value type="int">400900</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Qt/6.9.0</value>
+    <value type="QString">/Users/ymy/Developer/PhotoView</value>
     <value type="int">200000</value>
    </valuelist>
   </valuelist>

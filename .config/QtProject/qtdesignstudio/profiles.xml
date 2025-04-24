@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtDesignStudio 4.7.1, 2025-04-21T17:11:55. -->
+<!-- Written by QtDesignStudio 4.7.1, 2025-04-23T21:04:18. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -42,8 +42,8 @@
    <value type="bool" key="PE.Profile.SDK">true</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
    </valuelist>
   </valuemap>
  </data>
@@ -85,8 +85,8 @@
    <value type="bool" key="PE.Profile.SDK">true</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
    </valuelist>
   </valuemap>
  </data>

@@ -1,57 +1,55 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<QtAdvancedDockingSystem containers="1" displayName="Basic 3D" mcusEnabled="true" userVersion="0" version="1">
+<?xml version="1.0" encoding="UTF-8"?>
+<QtAdvancedDockingSystem version="1" userVersion="0" containers="1" displayName="Basic 3D">
   <container floating="false">
-    <splitter count="3" orientation="Horizontal">
-      <splitter count="3" orientation="Vertical">
-        <area current="Navigator" tabs="3">
-          <widget closed="false" name="Navigator"/>
-          <widget closed="false" name="Projects"/>
-          <widget closed="true" name="DebugView"/>
+    <splitter orientation="Horizontal" count="3">
+      <splitter orientation="Vertical" count="3">
+        <area tabs="2" current="Navigator">
+          <widget name="Navigator" closed="false"/>
+          <widget name="Projects" closed="false"/>
         </area>
-        <area current="Assets" tabs="3">
-          <widget closed="false" name="Assets"/>
-          <widget closed="false" name="Components"/>
-          <widget closed="false" name="ContentLibrary"/>
+        <area tabs="2" current="Assets">
+          <widget name="Assets" closed="false"/>
+          <widget name="Components" closed="false"/>
         </area>
-        <area current="OpenDocuments" tabs="2">
-          <widget closed="true" name="FileSystem"/>
-          <widget closed="true" name="OpenDocuments"/>
+        <area tabs="2" current="OpenDocuments">
+          <widget name="FileSystem" closed="true"/>
+          <widget name="OpenDocuments" closed="true"/>
         </area>
-        <sizes>708 514 0</sizes>
+        <sizes>1144 831 0</sizes>
       </splitter>
-      <splitter count="3" orientation="Vertical">
-        <splitter count="2" orientation="Horizontal">
-          <area current="Editor3D" tabs="1">
-            <widget closed="false" name="Editor3D"/>
+      <splitter orientation="Vertical" count="3">
+        <splitter orientation="Horizontal" count="2">
+          <area tabs="1" current="Editor3D">
+            <widget name="Editor3D" closed="false"/>
           </area>
-          <area current="FormEditor" tabs="2">
-            <widget closed="false" name="FormEditor"/>
-            <widget closed="true" name="TextEditor"/>
+          <area tabs="2" current="FormEditor">
+            <widget name="FormEditor" closed="false"/>
+            <widget name="TextEditor" closed="true"/>
           </area>
-          <sizes>764 767</sizes>
+          <sizes>1147 1152</sizes>
         </splitter>
-        <area current="Timelines" tabs="2">
-          <widget closed="true" name="StatesEditor"/>
-          <widget closed="true" name="Timelines"/>
+        <area tabs="2" current="Timelines">
+          <widget name="StatesEditor" closed="true"/>
+          <widget name="Timelines" closed="true"/>
         </area>
-        <area current="OutputPane" tabs="1">
-          <widget closed="true" name="OutputPane"/>
+        <area tabs="1" current="OutputPane">
+          <widget name="OutputPane" closed="true"/>
         </area>
-        <sizes>1223 0 0</sizes>
+        <sizes>1976 0 0</sizes>
       </splitter>
-      <splitter count="2" orientation="Vertical">
-        <area current="Properties" tabs="4">
-          <widget closed="false" name="Properties"/>
-          <widget closed="false" name="MaterialEditor"/>
-          <widget closed="false" name="TextureEditor"/>
-          <widget closed="true" name="ConnectionView"/>
+      <splitter orientation="Vertical" count="2">
+        <area tabs="4" current="Properties">
+          <widget name="Properties" closed="false"/>
+          <widget name="MaterialEditor" closed="false"/>
+          <widget name="TextureEditor" closed="false"/>
+          <widget name="ConnectionView" closed="true"/>
         </area>
-        <area current="MaterialBrowser" tabs="1">
-          <widget closed="false" name="MaterialBrowser"/>
+        <area tabs="1" current="MaterialBrowser">
+          <widget name="MaterialBrowser" closed="false"/>
         </area>
-        <sizes>611 611</sizes>
+        <sizes>988 987</sizes>
       </splitter>
-      <sizes>512 1532 512</sizes>
+      <sizes>769 2300 769</sizes>
     </splitter>
   </container>
 </QtAdvancedDockingSystem>
