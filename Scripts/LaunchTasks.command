@@ -43,6 +43,6 @@ cd
 echo "System Launch Cleanup has done $(date '+%Y-%m-%d %H:%M:%S')" >> ~/.dotfiles/Scripts/Logs/launch_cleanup.log
 
 echo "Play Music"
-~/.dotfiles/macOS/LaunchMusicPlay.applescript
+/Users/ymy/.dotfiles/macOS/LaunchMusicPlay.applescript
 
 osascript -e 'tell application "iTerm2" to tell current tab to close'
