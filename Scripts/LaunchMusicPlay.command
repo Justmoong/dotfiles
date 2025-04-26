@@ -1,4 +1,6 @@
-tell application "Music"
+#! /bin/zsh
+
+osascript -e 'tell application "Music"
 	activate
 	
 	set shuffle enabled to true
@@ -7,8 +9,7 @@ tell application "Music"
 	if exists (playlist "Select Game") then
 		play playlist "Select Game"
 	else
-		display dialog "playlist 'Select Game'does not exist." buttons {"OK"} default button 1
 		return
 	end if
 	
-end tell
+end tell'
