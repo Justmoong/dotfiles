@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 16.0.1, 2025-04-23T21:01:12. -->
+<!-- Written by QtCreator 16.0.1, 2025-04-29T20:41:07. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -26,7 +26,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
     <value type="QString" key="Debugger.Information">lldb</value>
     <value type="QByteArray" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.Device"></value>
@@ -63,7 +63,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
     <value type="QString" key="Debugger.Information">lldb</value>
     <value type="QByteArray" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.Device"></value>
@@ -100,7 +100,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
     <value type="QString" key="Debugger.Information">{7ceab579-c825-44c0-b620-96ee3978b15b}</value>
     <value type="QByteArray" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.DeviceType">Desktop</value>
@@ -160,7 +160,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
     <value type="QString" key="Debugger.Information">{7ceab579-c825-44c0-b620-96ee3978b15b}</value>
     <value type="QByteArray" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QByteArray" key="PE.Profile.DeviceType">Desktop</value>
@@ -197,7 +197,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
     <value type="QString" key="Debugger.Information">lldb</value>
     <value type="QString" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.Device"></value>
@@ -216,9 +216,9 @@
    <value type="QString" key="PE.Profile.Name">Qt %{Qt:Version} for iOS</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">PE.Profile.SysRoot</value>
     <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.SysRoot</value>
     <value type="QString">PE.Profile.DeviceType</value>
    </valuelist>
   </valuemap>
@@ -241,7 +241,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
     <value type="QString" key="Debugger.Information">lldb</value>
     <value type="QString" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.DeviceType">Ios.Simulator.Type</value>
@@ -259,9 +259,9 @@
    <value type="QString" key="PE.Profile.Name">Qt %{Qt:Version} for iOS Simulator</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">PE.Profile.SysRoot</value>
     <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.SysRoot</value>
     <value type="QString">PE.Profile.DeviceType</value>
    </valuelist>
   </valuemap>
@@ -284,7 +284,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
     <value type="QString" key="Debugger.Information">{7ceab579-c825-44c0-b620-96ee3978b15b}</value>
     <value type="QString" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.DeviceType">Desktop</value>
@@ -324,7 +324,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
     <value type="QString" key="Debugger.Information">{7ceab579-c825-44c0-b620-96ee3978b15b}</value>
     <value type="QString" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.Device"></value>
@@ -365,7 +365,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
     <value type="QString" key="Debugger.Information">{7ceab579-c825-44c0-b620-96ee3978b15b}</value>
     <value type="QString" key="PE.Profile.BuildDeviceType">Desktop</value>
     <value type="QString" key="PE.Profile.Device"></value>

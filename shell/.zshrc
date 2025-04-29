@@ -12,10 +12,6 @@ typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-source ~/craft/craftenv.sh
-source ~/CraftRoot/craft/craftenv.sh
-cd
-
 alias python=python3
 alias pip=pip3
 alias brew-up='brew update && brew upgrade && brew cleanup'

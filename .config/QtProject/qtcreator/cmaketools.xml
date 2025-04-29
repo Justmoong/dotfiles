@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorCMakeTools>
-<!-- Written by QtCreator 16.0.1, 2025-04-22T12:52:16. -->
+<!-- Written by QtCreator 16.0.1, 2025-04-29T20:52:19. -->
 <qtcreator>
  <data>
   <variable>CMakeTools.0</variable>
@@ -19,11 +19,11 @@
   <valuemap type="QVariantMap">
    <value type="bool" key="AutoCreateBuildDirectory">false</value>
    <value type="bool" key="AutoDetected">true</value>
-   <value type="QString" key="Binary">/Applications/CMake.app/Contents/bin/cmake</value>
+   <value type="QString" key="Binary">/opt/homebrew/bin/cmake</value>
    <value type="QString" key="DetectionSource"></value>
-   <value type="QString" key="DisplayName">System CMake at /Applications/CMake.app/Contents/bin/cmake</value>
-   <value type="QString" key="Id">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
-   <value type="QString" key="QchFile">/Applications/CMake.app/Contents/doc/cmake/CMake.qch</value>
+   <value type="QString" key="DisplayName">System CMake at /opt/homebrew/bin/cmake</value>
+   <value type="QString" key="Id">{4d5713c0-a181-4f54-98ae-426c76749b29}</value>
+   <value type="QString" key="QchFile"></value>
   </valuemap>
  </data>
  <data>
@@ -32,7 +32,7 @@
  </data>
  <data>
   <variable>CMakeTools.Default</variable>
-  <value type="QString">{a60a2b20-6b72-4d31-bb5e-ed731b4cb4f2}</value>
+  <value type="QString">qt.tools.cmake</value>
  </data>
  <data>
   <variable>Version</variable>
