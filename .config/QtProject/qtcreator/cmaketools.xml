@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorCMakeTools>
-<!-- Written by QtCreator 16.0.1, 2025-04-29T20:52:19. -->
+<!-- Written by QtCreator 16.0.1, 2025-04-30T09:57:52. -->
 <qtcreator>
  <data>
   <variable>CMakeTools.0</variable>
-  <valuemap type="QVariantMap">
-   <value type="bool" key="AutoCreateBuildDirectory">false</value>
-   <value type="bool" key="AutoDetected">true</value>
-   <value type="QString" key="Binary">/Users/ymy/Qt/Tools/CMake/CMake.app/Contents/MacOS/CMake</value>
-   <value type="QString" key="DetectionSource"></value>
-   <value type="QString" key="DisplayName">CMake 3.30.5 (Qt)</value>
-   <value type="QString" key="Id">qt.tools.cmake</value>
-   <value type="QString" key="QchFile">/Users/ymy/Qt/Tools/CMake/CMake.app/Contents/doc/cmake/CMake.qch</value>
-  </valuemap>
- </data>
- <data>
-  <variable>CMakeTools.1</variable>
   <valuemap type="QVariantMap">
    <value type="bool" key="AutoCreateBuildDirectory">false</value>
    <value type="bool" key="AutoDetected">true</value>
@@ -28,11 +16,11 @@
  </data>
  <data>
   <variable>CMakeTools.Count</variable>
-  <value type="int">2</value>
+  <value type="int">1</value>
  </data>
  <data>
   <variable>CMakeTools.Default</variable>
-  <value type="QString">qt.tools.cmake</value>
+  <value type="QString">{4d5713c0-a181-4f54-98ae-426c76749b29}</value>
  </data>
  <data>
   <variable>Version</variable>

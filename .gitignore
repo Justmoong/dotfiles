@@ -1,3 +1,5 @@
 .DS_Store
 /.config/gh-copilot
 /.config/github-copilot
+/.config/iterm2/AppSupport
+/shell/powerlevel10k

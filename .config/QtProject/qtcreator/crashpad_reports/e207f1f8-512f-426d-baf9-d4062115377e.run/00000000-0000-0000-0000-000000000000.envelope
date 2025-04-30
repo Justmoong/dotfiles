@@ -1,3 +1,0 @@
-{"dsn":"https://0b12ea2a1197c6fa03e77168f5905ec6@o205679.ingest.us.sentry.io/4507984559538176"}
-{"type":"session","length":223}
-{"init":true,"sid":"de2fa79a-b870-4932-3822-28d1f791c424","status":"exited","errors":0,"started":"2025-04-29T11:40:59.972398Z","duration":766.2008059999999,"attrs":{"release":"qt-creator@16.0.1","environment":"production"}}
