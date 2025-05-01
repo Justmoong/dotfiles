@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 16.0.1, 2025-04-30T13:52:32. -->
+<!-- Written by QtCreator 16.0.1, 2025-05-01T17:13:04. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -108,7 +108,7 @@
      <value type="QByteArray" key="C">{370b49f0-155a-4bd0-b65c-bedf3fd5b8e5}</value>
      <value type="QByteArray" key="Cxx">{832980b8-5f14-4193-baaf-e0eae17b2f2a}</value>
     </valuemap>
-    <value type="int" key="QtSupport.QtInformation">-1</value>
+    <value type="int" key="QtSupport.QtInformation">2</value>
    </valuemap>
    <value type="QString" key="PE.Profile.DeviceTypeForIcon">Desktop</value>
    <value type="QString" key="PE.Profile.Icon"></value>
@@ -123,8 +123,8 @@
   <variable>Profile.3</variable>
   <valuemap type="QVariantMap">
    <valuelist type="QVariantList" key="PE.Kit.RelevantAspects">
-    <value type="QString">Python.Interpreter</value>
     <value type="QString">PE.Profile.Environment</value>
+    <value type="QString">Python.Interpreter</value>
    </valuelist>
    <value type="bool" key="PE.Profile.AutoDetected">true</value>
    <value type="QString" key="PE.Profile.AutoDetectionSource">Python</value>
@@ -168,7 +168,7 @@
      <value type="QByteArray" key="C">{4d1635b0-338f-4a82-8441-af1aa01b9531}</value>
      <value type="QByteArray" key="Cxx">{cb5c8064-c4f1-4cde-aa24-1c2a003d0fa2}</value>
     </valuemap>
-    <value type="int" key="QtSupport.QtInformation">1</value>
+    <value type="int" key="QtSupport.QtInformation">2</value>
    </valuemap>
    <value type="QString" key="PE.Profile.DeviceTypeForIcon">Desktop</value>
    <value type="QString" key="PE.Profile.Icon"></value>
@@ -216,9 +216,9 @@
    <value type="QString" key="PE.Profile.Name">Qt %{Qt:Version} for iOS</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
+    <value type="QString">PE.Profile.SysRoot</value>
     <value type="QString">QtSupport.QtInformation</value>
     <value type="QString">PE.Profile.ToolChainsV3</value>
-    <value type="QString">PE.Profile.SysRoot</value>
     <value type="QString">PE.Profile.DeviceType</value>
    </valuelist>
   </valuemap>
@@ -259,9 +259,9 @@
    <value type="QString" key="PE.Profile.Name">Qt %{Qt:Version} for iOS Simulator</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
+    <value type="QString">PE.Profile.SysRoot</value>
     <value type="QString">QtSupport.QtInformation</value>
     <value type="QString">PE.Profile.ToolChainsV3</value>
-    <value type="QString">PE.Profile.SysRoot</value>
     <value type="QString">PE.Profile.DeviceType</value>
    </valuelist>
   </valuemap>

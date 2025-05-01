@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 16.0.1, 2025-04-30T13:53:33. -->
+<!-- Written by QtCreator 16.0.1, 2025-05-01T17:18:33. -->
 <qtcreator>
  <data>
   <variable>AutoTest.MessageFilter</variable>
   <valuelist type="QVariantList">
-   <value type="int">1</value>
-   <value type="int">20</value>
-   <value type="int">9</value>
-   <value type="int">4</value>
-   <value type="int">3</value>
-   <value type="int">21</value>
    <value type="int">14</value>
-   <value type="int">12</value>
-   <value type="int">11</value>
-   <value type="int">22</value>
-   <value type="int">13</value>
-   <value type="int">10</value>
-   <value type="int">5</value>
    <value type="int">6</value>
-   <value type="int">8</value>
-   <value type="int">15</value>
+   <value type="int">0</value>
+   <value type="int">5</value>
+   <value type="int">22</value>
+   <value type="int">20</value>
+   <value type="int">4</value>
+   <value type="int">13</value>
+   <value type="int">1</value>
+   <value type="int">21</value>
    <value type="int">2</value>
    <value type="int">16</value>
    <value type="int">7</value>
-   <value type="int">0</value>
+   <value type="int">10</value>
+   <value type="int">9</value>
+   <value type="int">12</value>
+   <value type="int">15</value>
+   <value type="int">11</value>
+   <value type="int">8</value>
+   <value type="int">3</value>
   </valuelist>
  </data>
  <data>
@@ -45,7 +45,7 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAABMAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBEAGUAdgBlAGwAbwBwAGUAcgAvAEUAWABJAEYAVgBpAGUAdwAvAE0AYQBpAG4ALgBxAG0AbAAAAAwAAAAAIAAAAAIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAIAAAAAQAAAEwALwBVAHMAZQByAHMALwB5AG0AeQAvAEQAZQB2AGUAbABvAHAAZQByAC8ARQBYAEkARgBWAGkAZQB3AC8ATQBhAGkAbgAuAHEAbQBsAAAAEABNAGEAaQBuAC4AcQBtAGwAAAAXUW1sSlNFZGl0b3IuUU1MSlNFZGl0b3IAAAABTgAAAA1jdXJyZW50ZWRpdG9yAAAATAAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBFAFgASQBGAFYAaQBlAHcALwBNAGEAaQBuAC4AcQBtAGwAAAAuAFEAbQBsAEoAUwBFAGQAaQB0AG8AcgAuAFEATQBMAEoAUwBFAGQAaQB0AG8AcgAAACAAAAACAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAACAAAAAEAAACPAAAATAAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBFAFgASQBGAFYAaQBlAHcALwBNAGEAaQBuAC4AcQBtAGwAAAAXUW1sSlNFZGl0b3IuUU1MSlNFZGl0b3IAAAAgAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAAA</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAABeAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBEAGUAdgBlAGwAbwBwAGUAcgAvAEwAZQBhAHIAbgBRAHQALwBRAHQAUABhAGkAbgB0AGUAcgAvAE0AYQBpAG4ALgBxAG0AbAAAAAwAAAAAIAAAAAIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAIAAAAAQAAAF4ALwBVAHMAZQByAHMALwB5AG0AeQAvAEQAZQB2AGUAbABvAHAAZQByAC8ATABlAGEAcgBuAFEAdAAvAFEAdABQAGEAaQBuAHQAZQByAC8ATQBhAGkAbgAuAHEAbQBsAAAAEABNAGEAaQBuAC4AcQBtAGwAAAAXUW1sSlNFZGl0b3IuUU1MSlNFZGl0b3IAAAABcgAAAA1jdXJyZW50ZWRpdG9yAAAAXgAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBMAGUAYQByAG4AUQB0AC8AUQB0AFAAYQBpAG4AdABlAHIALwBNAGEAaQBuAC4AcQBtAGwAAAAuAFEAbQBsAEoAUwBFAGQAaQB0AG8AcgAuAFEATQBMAEoAUwBFAGQAaQB0AG8AcgAAACAAAAACAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAACAAAAAEAAAChAAAAXgAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBMAGUAYQByAG4AUQB0AC8AUQB0AFAAYQBpAG4AdABlAHIALwBNAGEAaQBuAC4AcQBtAGwAAAAXUW1sSlNFZGl0b3IuUU1MSlNFZGl0b3IAAAAgAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAAA</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -54,12 +54,12 @@
  <data>
   <variable>ProjectList</variable>
   <valuelist type="QVariantList">
-   <value type="QString">/Users/ymy/Developer/EXIFView/CMakeLists.txt</value>
+   <value type="QString">/Users/ymy/Developer/LearnQt/QtPainter/CMakeLists.txt</value>
   </valuelist>
  </data>
  <data>
   <variable>StartupProject</variable>
-  <value type="QString">/Users/ymy/Developer/EXIFView/CMakeLists.txt</value>
+  <value type="QString">/Users/ymy/Developer/LearnQt/QtPainter/CMakeLists.txt</value>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
@@ -100,12 +100,12 @@
   <variable>value-ProjectTree.ExpandData</variable>
   <valuelist type="QVariantList">
    <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/EXIFView</value>
-    <value type="int">-6</value>
+    <value type="QString">/Users/ymy/Developer/LearnQt/QtPainter</value>
+    <value type="int">200000</value>
    </valuelist>
    <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/EXIFView</value>
-    <value type="int">200000</value>
+    <value type="QString">/Users/ymy/Developer/LearnQt/QtPainter</value>
+    <value type="int">-6</value>
    </valuelist>
   </valuelist>
  </data>
