@@ -5,8 +5,10 @@ user=$(whoami)
 sudo -v
 zsh --version
 
-chmod +x ~/.dotfiles/Scripts/*.sh
-chmod +x ~/.dotfiles/macOS/macos
+sudo chmod -R +rwx ~/.dotfiles/*
+sudo chmod +rwx ~/.dotfiles/Scripts/*.sh
+sudo chmod +rwx ~/.dotfiles/macOS/Scripts/*.sh
+sudo chmod +rwx ~/.dotfiles/macOS/macos
 
 xcode-select --install
 ~/.dotfiles/Scripts/InstallHomebrew.sh

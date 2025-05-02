@@ -1,13 +1,20 @@
-#powerlevel10k
-if [ -f /opt/homebrew/share/powerlevel10k/powerlevel10k.zsh-theme ]; then
-  source /opt/homebrew/share/powerlevel10k/powerlevel10k.zsh-theme
-elif [ -f /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme ]; then
-  source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
-fi
+# Path to your Oh My Zsh installation.
+export ZSH="$HOME/.oh-my-zsh"
 
-typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
+# Set name of the theme to load --- if set to "random", it will
+# load a random theme each time Oh My Zsh is loaded, in which case,
+# to know which specific one was loaded, run: echo $RANDOM_THEME
+# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+ZSH_THEME="robbyrussell"
 
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+# Which plugins would you like to load?
+# Standard plugins can be found in $ZSH/plugins/
+# Custom plugins may be added to $ZSH_CUSTOM/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+# Add wisely, as too many plugins slow down shell startup.
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
 
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
