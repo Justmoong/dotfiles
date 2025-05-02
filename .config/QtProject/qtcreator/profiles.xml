@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 16.0.1, 2025-05-01T17:13:04. -->
+<!-- Written by QtCreator 16.0.1, 2025-05-02T11:48:13. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -216,9 +216,9 @@
    <value type="QString" key="PE.Profile.Name">Qt %{Qt:Version} for iOS</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">PE.Profile.SysRoot</value>
-    <value type="QString">QtSupport.QtInformation</value>
     <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.SysRoot</value>
     <value type="QString">PE.Profile.DeviceType</value>
    </valuelist>
   </valuemap>
@@ -259,9 +259,9 @@
    <value type="QString" key="PE.Profile.Name">Qt %{Qt:Version} for iOS Simulator</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">PE.Profile.SysRoot</value>
-    <value type="QString">QtSupport.QtInformation</value>
     <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.SysRoot</value>
     <value type="QString">PE.Profile.DeviceType</value>
    </valuelist>
   </valuemap>
