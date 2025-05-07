@@ -47,3 +47,13 @@ eval "$(rbenv init - zsh)"
 
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
 export PATH=/Users/ymy/Qt/6.9.0/macos/bin:$PATH
+
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/Users/ymy/.lmstudio/bin"
+# End of LM Studio CLI section
+
+# The following lines have been added by Docker Desktop to enable Docker CLI completions.
+fpath=(/Users/ymy/.docker/completions $fpath)
+autoload -Uz compinit
+compinit
+# End of Docker CLI completions
