@@ -45,6 +45,7 @@ dot() {
 
 eval "$(rbenv init - zsh)"
 
+export PATH="/usr/bin/:$PATH"
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
 export PATH=/Users/ymy/Qt/6.9.0/macos/bin:$PATH
 
