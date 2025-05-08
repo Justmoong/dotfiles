@@ -1,4 +1,4 @@
-#! /bin/zsh
+#!/bin/zsh
 
 osascript -e 'tell application "Music"
 	activate
