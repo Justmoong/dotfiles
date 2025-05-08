@@ -1,5 +1,4 @@
 #!/bin/zsh
-echo "Run SafariAutomaticStableDiffusionWindow.command"
 
 sudo -u $(logname) osascript -e 'tell application "Safari"
     activate
@@ -10,5 +9,3 @@ sudo -u $(logname) osascript -e 'tell application "Safari"
     set URL of (last tab) to "https://youtube.com"
     end tell
 end tell'
-
-osascript -e 'tell application "iTerm2" to tell current tab to close'

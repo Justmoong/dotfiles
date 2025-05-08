@@ -1,11 +1,8 @@
 #!/bin/zsh
 
-echo "Start LaunchTasks"
-
 rm -rf ~/.cache
 rm -rf ~/.cups
 rm -rf ~/.npm
-rm -rf ~/.cargo
 rm -rf ~/.gradle
 rm -rf ~/.bundle
 rm -rf ~/.gk
@@ -23,23 +20,24 @@ rm -rf ~/.lesshst
 rm -rf ~/.node_repl_history
 rm -rf ~/.zshrc.backup
 rm -rf ~/.CFUserTextEncoding
+rm -rf ~/.wget-hsts
+rm -rf ~/.zcompdump
+rm -rf ~/.zcompdump-Mac Studio-5.9
+rm -rf ~/.nuget
+rm -rf ~/.wget-hsts
 rm -rf ~/.DS_Store
 
 brew cleanup
 brew update
 brew upgrade
 brew cleanup
-echo "Brew Check Complete at $(date)." >> ~/checkbrew.log
 
 cd ~/.dotfiles/
-echo "start sync .dotfiles on git"
 sudo git add .
 sudo git commit -m "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
 sudo git push
-echo "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
-echo "Done"
 cd
 
-echo "System Launch Cleanup has done $(date '+%Y-%m-%d %H:%M:%S')" >> ~/.dotfiles/Scripts/Logs/launch_cleanup.log
+echo "System Launch Cleanup has done $(date '+%Y-%m-%d %H:%M:%S')" >> ~/.dotfiles/macOS/Logs/LanchTasks.log
 
 osascript -e 'tell application "iTerm2" to tell current tab to close'
