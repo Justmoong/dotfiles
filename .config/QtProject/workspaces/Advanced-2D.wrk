@@ -15,7 +15,7 @@
         <area tabs="1" current="OpenDocuments">
           <widget name="OpenDocuments" closed="true"/>
         </area>
-        <sizes>1019 956 0</sizes>
+        <sizes>1010 948 0</sizes>
       </splitter>
       <splitter orientation="Vertical" count="3">
         <splitter orientation="Horizontal" count="2">
@@ -25,9 +25,10 @@
           <area tabs="1" current="TextEditor">
             <widget name="TextEditor" closed="false"/>
           </area>
-          <sizes>1298 1095</sizes>
+          <sizes>1493 875</sizes>
         </splitter>
-        <area tabs="4" current="StatesEditor">
+        <area tabs="5" current="ConnectionView">
+          <widget name="ConnectionView" closed="false"/>
           <widget name="StatesEditor" closed="false"/>
           <widget name="Timelines" closed="false"/>
           <widget name="CurveEditorId" closed="false"/>
@@ -36,19 +37,12 @@
         <area tabs="1" current="OutputPane">
           <widget name="OutputPane" closed="true"/>
         </area>
-        <sizes>1542 433 0</sizes>
+        <sizes>1529 429 0</sizes>
       </splitter>
-      <splitter orientation="Vertical" count="2">
-        <area tabs="1" current="Properties">
-          <widget name="Properties" closed="false"/>
-        </area>
-        <area tabs="2" current="ConnectionView">
-          <widget name="ConnectionView" closed="false"/>
-          <widget name="EffectComposer" closed="false"/>
-        </area>
-        <sizes>1327 648</sizes>
-      </splitter>
-      <sizes>713 2394 731</sizes>
+      <area tabs="1" current="Properties">
+        <widget name="Properties" closed="false"/>
+      </area>
+      <sizes>706 2369 724</sizes>
     </splitter>
   </container>
 </QtAdvancedDockingSystem>

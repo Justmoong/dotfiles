@@ -1,7 +1,24 @@
 [
     {
+        "categoryId": "J.StudioDesktopProject",
+        "name": "Launcher",
+        "qtVersion": "Qt 6.5",
+        "screenSize": "1280 x 960",
+        "styleName": "Universal Dark",
+        "useQtVirtualKeyboard": false,
+        "wizardName": "Launcher"
+    },
+    {
+        "categoryId": "J.StudioDesktopProject",
+        "name": "Launcher",
+        "qtVersion": "Qt 6.5",
+        "screenSize": "1280 x 960",
+        "styleName": "Default",
+        "useQtVirtualKeyboard": false,
+        "wizardName": "Launcher"
+    },
+    {
         "categoryId": "B.StudioProject",
-        "enableCMakeGeneration": false,
         "name": "Empty",
         "qtVersion": "Qt 6.8",
         "screenSize": "1920 x 1080",
@@ -11,7 +28,6 @@
     },
     {
         "categoryId": "B.StudioProject",
-        "enableCMakeGeneration": true,
         "name": "Empty",
         "qtVersion": "Qt 6.8",
         "screenSize": "1920 x 1080",
