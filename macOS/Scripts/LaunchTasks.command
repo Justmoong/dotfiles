@@ -38,6 +38,8 @@ sudo git commit -m "Fixed at: $(date '+%Y-%m-%d %H:%M:%S')"
 sudo git push
 cd
 
-echo "System Launch Cleanup has done $(date '+%Y-%m-%d %H:%M:%S')" >> ~/.dotfiles/macOS/Logs/LanchTasks.log
+cp ~/Library/Preferences/com.apple.dock.plist ~/.dotfiles/madOS/com.apple.dock.plist.backup
+
+echo "System Launch Cleanup has done $(date '+%Y-%m-%d %H:%M:%S')" >> ~/.Logs/LanchTasks.log
 
 osascript -e 'tell application "iTerm2" to tell current tab to close'
