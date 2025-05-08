@@ -47,7 +47,7 @@ eval "$(rbenv init - zsh)"
 
 export PATH="/usr/bin/:$PATH"
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
-export PATH=/Users/ymy/Qt/6.9.0/macos/bin:$PATH
+export PATH=~"/Qt-6.8.3-static-install/bin:$PATH"
 
 # Added by LM Studio CLI (lms)
 export PATH="$PATH:/Users/ymy/.lmstudio/bin"
