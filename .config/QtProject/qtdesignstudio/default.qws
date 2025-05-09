@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtDesignStudio 4.1.1, 2025-05-08T15:31:53. -->
+<!-- Written by QtDesignStudio 4.1.1, 2025-05-09T16:33:38. -->
 <qtcreator>
  <data>
   <variable>CascadeSetActive</variable>
@@ -12,7 +12,7 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAABmAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBEAGUAdgBlAGwAbwBwAGUAcgAvAEEAcgBjAGgATgBvAHQAZQBVAEkALwBjAG8AbgB0AGUAbgB0AC8ATQBhAGkAbgAuAHUAaQAuAHEAbQBsAAAADAAAAAAkAAAAAgAAAAAAAAAAAAAAAQAAAAEAAAABAAAAAgAAAAAAAAAhAAAAAQAAAGYALwBVAHMAZQByAHMALwB5AG0AeQAvAEQAZQB2AGUAbABvAHAAZQByAC8AQQByAGMAaABOAG8AdABlAFUASQAvAGMAbwBuAHQAZQBuAHQALwBNAGEAaQBuAC4AdQBpAC4AcQBtAGwAAAAWAE0AYQBpAG4ALgB1AGkALgBxAG0AbAAAACFRbWxKU0VkaXRvci5RdFF1aWNrRGVzaWduZXJFZGl0b3IAAAAA6QAAAA1jdXJyZW50ZWRpdG9yAAAAZgAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBBAHIAYwBoAE4AbwB0AGUAVQBJAC8AYwBvAG4AdABlAG4AdAAvAE0AYQBpAG4ALgB1AGkALgBxAG0AbAAAAEIAUQBtAGwASgBTAEUAZABpAHQAbwByAC4AUQB0AFEAdQBpAGMAawBEAGUAcwBpAGcAbgBlAHIARQBkAGkAdABvAHIAAAAkAAAAAgAAAAAAAAAAAAAAAQAAAAEAAAABAAAAAgAAAAAAAAAhAAAAAA==</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAIAAABoAC8AVQBzAGUAcgBzAC8AeQBtAHkALwBEAGUAdgBlAGwAbwBwAGUAcgAvAEEAcgBjAGgATgBvAHQAZQAvAFUASQAvAGMAbwBuAHQAZQBuAHQALwBNAGEAaQBuAC4AdQBpAC4AcQBtAGwAAAAMAAAAACQAAAACAAAAAAAAAAAAAAABAAAAAQAAAAEAAAACAAAAAAAAABMAAAA2AC8AVQBzAGUAcgBzAC8AeQBtAHkALwBEAG8AdwBuAGwAbwBhAGQAcwAvAFUASQAuAHEAcgBjAAAADAAAAAAjAAAAHwAAAP8AAAABAAAAAgAAAMAAAAC8AAAAAAEBAAAAAgAAAAABAAAAaAAvAFUAcwBlAHIAcwAvAHkAbQB5AC8ARABlAHYAZQBsAG8AcABlAHIALwBBAHIAYwBoAE4AbwB0AGUALwBVAEkALwBjAG8AbgB0AGUAbgB0AC8ATQBhAGkAbgAuAHUAaQAuAHEAbQBsAAAAFgBNAGEAaQBuAC4AdQBpAC4AcQBtAGwAAAAhUW1sSlNFZGl0b3IuUXRRdWlja0Rlc2lnbmVyRWRpdG9yAAAAAOsAAAANY3VycmVudGVkaXRvcgAAAGgALwBVAHMAZQByAHMALwB5AG0AeQAvAEQAZQB2AGUAbABvAHAAZQByAC8AQQByAGMAaABOAG8AdABlAC8AVQBJAC8AYwBvAG4AdABlAG4AdAAvAE0AYQBpAG4ALgB1AGkALgBxAG0AbAAAAEIAUQBtAGwASgBTAEUAZABpAHQAbwByAC4AUQB0AFEAdQBpAGMAawBEAGUAcwBpAGcAbgBlAHIARQBkAGkAdABvAHIAAAAkAAAAAgAAAAAAAAAAAAAAAQAAAAEAAAABAAAAAgAAAAAAAAATAAAAAA==</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -21,12 +21,12 @@
  <data>
   <variable>ProjectList</variable>
   <valuelist type="QVariantList">
-   <value type="QString">/Users/ymy/Developer/ArchNoteUI/UI.qmlproject</value>
+   <value type="QString">/Users/ymy/Developer/ArchNote/UI/UI.qmlproject</value>
   </valuelist>
  </data>
  <data>
   <variable>StartupProject</variable>
-  <value type="QString">/Users/ymy/Developer/ArchNoteUI/UI.qmlproject</value>
+  <value type="QString">/Users/ymy/Developer/ArchNote/UI/UI.qmlproject</value>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
@@ -44,11 +44,11 @@
   <variable>value-ProjectTree.ExpandData</variable>
   <valuelist type="QVariantList">
    <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/ArchNoteUI/content</value>
+    <value type="QString">/Users/ymy/Developer/ArchNote/UI/content</value>
     <value type="QString">content</value>
    </valuelist>
    <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/ArchNoteUI</value>
+    <value type="QString">/Users/ymy/Developer/ArchNote/UI</value>
     <value type="QString">UI</value>
    </valuelist>
   </valuelist>
@@ -57,6 +57,9 @@
   <variable>value-TaskWindow.Categories</variable>
   <valuelist type="QVariantList">
    <value type="QString">Task.Category.QmlAnalysis</value>
+   <value type="QString">AssetExporter.Export</value>
+   <value type="QString">AssetExporter.Export</value>
+   <value type="QString">AssetExporter.Export</value>
    <value type="QString">AssetExporter.Export</value>
    <value type="QString">AssetExporter.Export</value>
    <value type="QString">AssetExporter.Export</value>

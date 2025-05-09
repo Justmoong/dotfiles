@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtDesignStudio 4.1.1, 2025-05-08T15:30:45. -->
+<!-- Written by QtDesignStudio 4.1.1, 2025-05-09T16:28:39. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -24,7 +24,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation"></value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{f645939b-77dd-44dc-bf3f-7c360f267670}</value>
     <value type="QString" key="Debugger.Information">{7e7234e0-bb19-4f3b-b0a7-f7582a038e58}</value>
     <value type="QString" key="PE.Profile.Device">Desktop Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Desktop</value>
@@ -67,7 +67,7 @@
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation"></value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{f645939b-77dd-44dc-bf3f-7c360f267670}</value>
     <value type="QString" key="Debugger.Information">{7e7234e0-bb19-4f3b-b0a7-f7582a038e58}</value>
     <value type="QString" key="PE.Profile.Device"></value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
@@ -104,11 +104,11 @@
     </valuelist>
     <valuemap type="QVariantMap" key="CMake.GeneratorKitInformation">
      <value type="QString" key="ExtraGenerator"></value>
-     <value type="QString" key="Generator"></value>
+     <value type="QString" key="Generator">Unix Makefiles</value>
      <value type="QString" key="Platform"></value>
      <value type="QString" key="Toolset"></value>
     </valuemap>
-    <value type="QString" key="CMakeProjectManager.CMakeKitInformation"></value>
+    <value type="QString" key="CMakeProjectManager.CMakeKitInformation">{f645939b-77dd-44dc-bf3f-7c360f267670}</value>
     <value type="QString" key="Debugger.Information">{7e7234e0-bb19-4f3b-b0a7-f7582a038e58}</value>
     <value type="QString" key="PE.Profile.Device">Desktop Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Desktop</value>

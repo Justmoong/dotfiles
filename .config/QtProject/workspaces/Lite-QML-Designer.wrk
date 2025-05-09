@@ -15,7 +15,7 @@
           <widget name="FileSystem" closed="true"/>
           <widget name="OpenDocuments" closed="true"/>
         </area>
-        <sizes>668 1307 0</sizes>
+        <sizes>452 884 0</sizes>
       </splitter>
       <splitter orientation="Vertical" count="3">
         <area tabs="2" current="FormEditor">
@@ -29,7 +29,7 @@
         <area tabs="1" current="OutputPane">
           <widget name="OutputPane" closed="true"/>
         </area>
-        <sizes>1976 0 0</sizes>
+        <sizes>1337 0 0</sizes>
       </splitter>
       <splitter orientation="Vertical" count="2">
         <area tabs="1" current="Properties">
@@ -38,9 +38,9 @@
         <area tabs="1" current="ConnectionView">
           <widget name="ConnectionView" closed="true"/>
         </area>
-        <sizes>1976 0</sizes>
+        <sizes>1337 0</sizes>
       </splitter>
-      <sizes>768 2302 768</sizes>
+      <sizes>389 1166 389</sizes>
     </splitter>
   </container>
 </QtAdvancedDockingSystem>
