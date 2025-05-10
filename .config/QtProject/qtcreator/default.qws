@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 16.0.1, 2025-05-09T16:17:52. -->
+<!-- Written by QtCreator 16.0.1, 2025-05-09T21:18:24. -->
 <qtcreator>
  <data>
   <variable>AutoTest.MessageFilter</variable>
@@ -98,16 +98,7 @@
  </data>
  <data>
   <variable>value-ProjectTree.ExpandData</variable>
-  <valuelist type="QVariantList">
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/ArchNote/UI</value>
-    <value type="int">200000</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/ymy/Developer/ArchNote/UI/content</value>
-    <value type="int">200000</value>
-   </valuelist>
-  </valuelist>
+  <valuelist type="QVariantList"/>
  </data>
  <data>
   <variable>value-TaskWindow.Categories</variable>
