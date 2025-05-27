@@ -1,0 +1,36 @@
+[General]
+ConfigVersion=1
+
+[MainWindow]
+2 screens: Height=1068
+2 screens: Width=911
+2 screens: XPosition=1464
+2 screens: YPosition=791
+2160x3840 screen: Height=1068
+2160x3840 screen: Width=911
+2160x3840 screen: XPosition=1464
+2160x3840 screen: YPosition=791
+3072x1728 screen: Height=946
+3072x1728 screen: Width=1139
+3072x1728 screen: XPosition=966
+3072x1728 screen: YPosition=393
+3234x1819 screen: Height=553
+3234x1819 screen: Width=918
+3234x1819 screen: XPosition=1158
+3234x1819 screen: YPosition=641
+3840x2160 screen: Height=1152
+3840x2160 screen: Width=1002
+3840x2160 screen: XPosition=2513
+3840x2160 screen: YPosition=241
+DP-1=DP-1
+DP-1 DP-2=DP-1
+HDMI-1=HDMI-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAZYBAAAD+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABIAEAAAMAAARzAAADiAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAM//////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+CloseAllEmptyTabs=true
+
+[UiSettings]
+ColorScheme=

@@ -1,0 +1,30 @@
+[KFileDialog Settings]
+Recent Files[$e]=Pretendard-Black.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-Thin.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-SemiBoldItalic.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-SemiBold.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-Regular.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-MediumItalic.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-Medium.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-LightItalic.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-Light.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-Italic.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-ExtraLightItalic.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-ExtraLight.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-ExtraBoldItalic.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-ExtraBold.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-BoldItalic.ttf,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-Bold.ttf,file:$HOME/.config/Pretendard-1.3.9/public/static/alternative/Pretendard-Thin.ttf,file:$HOME/.config/Pretendard-1.3.9/public/static/alternative/Pretendard-SemiBold.ttf,file:$HOME/.config/Pretendard-1.3.9/public/static/alternative/Pretendard-Regular.ttf,file:$HOME/.config/Pretendard-1.3.9/public/static/alternative/Pretendard-Medium.ttf,file:$HOME/.config/Pretendard-1.3.9/public/static/alternative/Pretendard-Light.ttf,file:$HOME/.config/Pretendard-1.3.9/public/static/alternative/Pretendard-ExtraLight.ttf,file:$HOME/.config/Pretendard-1.3.9/public/static/alternative/Pretendard-ExtraBold.ttf,file:$HOME/.config/Pretendard-1.3.9/public/static/alternative/Pretendard-Bold.ttf,file:$HOME/.config/Pretendard-1.3.9/public/static/alternative/Pretendard-Black.ttf
+Recent URLs[$e]=file:$HOME/.config/Pretendard-1.3.9/public/static/alternative/,file:$HOME/Downloads/JetBrainsMono-2.304/fonts/ttf/
+detailViewIconSize=16
+
+[MainWindow]
+2 screens: Height=1068
+2 screens: Width=1110
+2 screens: XPosition=673
+2 screens: YPosition=854
+2160x3840 screen: Height=1068
+2160x3840 screen: Width=1110
+2160x3840 screen: XPosition=673
+2160x3840 screen: YPosition=854
+3072x1728 screen: XPosition=1026
+3072x1728 screen: YPosition=544
+3234x1819 screen: Height=701
+3234x1819 screen: Width=1021
+3234x1819 screen: XPosition=1229
+3234x1819 screen: YPosition=872
+3840x2160 screen: Height=1061
+3840x2160 screen: Width=1100
+3840x2160 screen: XPosition=1405
+3840x2160 screen: YPosition=932
+DP-1=DP-1
+DP-1 DP-2=DP-1
+HDMI-1=HDMI-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
